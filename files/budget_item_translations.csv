@@ -229,7 +229,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 53 11 05,ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (II ფაზა გერმანიის რეკონსტრუქციის საკრედიტო ბანკი,Program,Rehabilitation Of Communal Infrastructure In Batumi (II phase of the German Reconstruction Credit Bank
 30 05,სახელმწიფო მატერიალური რეზერვების შექმნა და მართვა,Program,Creation And Management Of Strategic Reserves
 32 04 02,გამოცდების ორგანიზება,Program,Organization Of Examinations
-37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,"Promotion Of Georgian Agriculture Produce, Wine And Cuisine"
+37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of  Agricultural Cooperatives
 24 04,სტანდარტიზაციისა და მეტროლოგიის სფეროს განვითარება,Program,Development Of Standardization And Metrology
 49 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers to Local Self-Government Agencies 
 51 11 08,გოდერძის ხეობაში სათხილამურო საბაგიროების მოწყობა (UniCredit Bank Austria AG),Program,Goderzi Valley Ski Cable Arrangement (UniCredit Bank Austria AG)
@@ -500,7 +500,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 37 01 17,ყურძნის შესყიდვა-გადამუშავების ხელშეწყობის ღონისძიებები,Program,Support Activities For Grape Purchase and Processing
 53 11,დონორების მიერ დაფინანსებული საერთო სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
 53 04 01 01,აფხაზეთის ავტონომიური რესპუბლიკისათვის გადასაცემი ტრანსფერი,Program,Grant For Autonomous Republic Of Abkhazia
-37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,"Promotion Of Georgian Agriculture Produce, Wine And Cuisine"
+37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of  Agricultural Cooperatives
 53 11 01,"ორმხრივი, რეგიონალური და რეგიონთაშორისი პროექტები (გერმანიის საერთაშორისო თანამშრომლობის საზოგადოება)",Program,Bilateral Regional And Inter-Regional Projects German Society For International Cooperation
 53 11 02,KfW-ის ადგილობრივი ოფისის საოპერაციო ხარჯების თანადაფინანსება (გერმანიის რეკონსტრუქციის საკრედიტო ბანკი),Program,Co-Funding Of Operation Costs For KfW's Local Office German Reconstruction Credit Bank
 41 01,საქართველოს სახალხო დამცველის აპარატის ფუნქციონირების გაძლიერების ღონისძიებები საქართველოს სახალხო დამცველის აპარატი,Program,Measures to strengthen the functioning of the Public Defender's Office (Public Defender Office)
@@ -539,7 +539,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 36 02,ენერგეტიკული ინფრასტრუქტურის მშენებლობა რეაბილიტაცია,Program,Construction And Rehabilitation Of Energy Infrastructure
 32 05 01,საგანმანათლებლო დაწესებულებებისა და მოსწავლეების/სტუდენტების ინფორმაციულ-საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children 
 37 01 02,სასოფლო სამეურნეო ტექნიკის განახლება,Program,Refurbishment Of Agriculture Machinery
-62 12 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (EU, KfW)",Program,"Rehabilitation Of Communal Infrastructure (III phase) (EU,KfW)"
+62 12 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (EU, KfW)",Program,"Rehabilitation Of Communal Infrastructure In Batumi (III phase) (EU,KfW)"
 35 05 01,შრომისა და დასაქმების სისტემის რეფორმების პროგრამა,Program,Reform Program For The Labor and Employment System
 37 01 03,სასოფლო სამეურნეო წარმოების ინტენსიფიკაცია,Program,Intensified Production In Agriculture
 37 01 04,სამელიორაციო სისტემების მოდერნიზაცია,Program,Modernization Of Melioration Systems
@@ -731,3 +731,13 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 30 03,"სამართალდამცავი სრუქტურებისათვის მაღალკვალიფიციური კადრების მომზადება, გადამზადება, საარქივო ფონდების დიგიტალიზაცია, სამეცნიერო - კვლევითი საქმიანობა და მოქალაქეთა მომსახურება",Program,Training And Retraining Of Highly Qualified Staff For Law Enforcement Bodies And Stimulation Of Education Process
 32 05,მეცნიერებისა და სამეცნიერო კვლევების ხელშეწყობა,Program,Support Of Science And Science Research
 35 03 06,სამედიცინო მომსახურების შეუფერხებელი მიწოდების მიზნით სამედიცინო დაწესებულებების ფინანსური ხელშეწყობის ღონისძიებები,Program,Financial Support Measures Of Medical Institutions For Unhindered Delivery Of Health Services
+24 07,ბაქო–თბილისი–ყარსის სარკინიგზო მაგისტრალის მშენებლობისათვის მარაბდა–ახალქალაქი–კარწახის მონაკვეთზე კერძო საკუთრებაში არსებული მიწების გამოსყიდვა-კომპენსაცია,Program,Compensation For The Private Land Acquisition Along Marabda-Akhalkalaki-Kartsakhi Section For The Construction Of Baku-Tbilisi-Karsi Railway
+13 00,"სახელმწიფო რწმუნებულის – გუბერნატორის ადმინისტრაცია ბაღდათის, ვანის, ზესტაფონის, თერჯოლის, სამტრედიის, საჩხერის, ტყიბულის, წყალტუბოს, ჭიათურის, ხარაგაულის, ხონის მუნიციპალიტეტებსა და ქალაქ ქუთაისის მუნიციპალიტეტში",SpendingAgency,"Administration of the State Representative – Governor in BAGHDATI, VANI, ZESTAPONI, SAMTREDIA, SACHKHERE, TKIBULI, TSKALTUBO, CHIATURA, KHARAGAULI, KHONI Municipalities and the Self-Governing City of KUTAISI"
+32 06 02 03,უმაღლესი და სამეცნიერო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Development Of Higher Scientific Institutions And Infrastructure
+32 06 02 04,სამინისტროს სისტემაში შემავალი საჯარო სამართლის იურიდიული პირებისა და ტერიტორიული ორგანოების ინფრასტრუქტურის განვითარება,Program,Development Of Infrastructure For Legal Entities And Territorial Authorities Subordinated to the Ministry
+24 07,ბაქო–თბილისი–ყარსის სარკინიგზო მაგისტრალის მშენებლობისათვის მარაბდა–ახალქალაქი–კარწახის მონაკვეთზე კერძო საკუთრებაში არსებული მიწების გამოსყიდვა-კომპენსაცია,Program,Compensation For The Private Land Acquisition Along Marabda-Akhalkalaki-Kartsakhi Section For The Construction Of Baku-Tbilisi-Karsi Railway
+32 05 02 03,უმაღლესი და სამეცნიერო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Development Of Higher Scientific Institutions And Infrastructure
+32 05 02 04,სამინისტროს სისტემაში შემავალი საჯარო სამართლის იურიდიული პირებისა და ტერიტორიული ორგანოების ინფრასტრუქტურის განვითარება,Program,Development Of Infrastructure For Legal Entities And Territorial Authorities Subordinated to the Ministry
+34 00,"საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა, განსახლებისა და ლტოლვილთა სამინისტრო",SpendingAgency,"Ministry OF Internally Displaced Persons From The Occupied Territories, Accommodation And Refugees Of Georgia"
+34 00,"საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა, განსახლებისა და ლტოლვილთა სამინისტრო",SpendingAgency,"Ministry OF Internally Displaced Persons From The Occupied Territories, Accommodation And Refugees Of Georgia"
+36 01,ენერგეტიკის სფეროში პოლიტიკის შემუშავება და მართვა,Program,Policy Making And Management In Energy Area
