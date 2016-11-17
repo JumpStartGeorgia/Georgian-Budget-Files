@@ -64,7 +64,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 24 06,ტურიზმის განვითარების ხელშეწყობა,Program,Stimulation Of Tourism Development
 36 04 03,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა (მსოფლიო ბანკი)",Program,"220 kv Line Building For ""Akhaltsikhe-Batumi"" Line(World Bank)"
 36 03 02,ვარდნილისა და ენგურის ჰიდროელექტროსადგურების რეაბილიტაციის პროექტი ევროპის საინვესტიციო ბანკი ევროკავშირი,Program,"Vardnili And Enguri Hydropower Rehabilitation Project European Investment Bank, The European Union"
-35 03 02 06,პირველადი ჯანდაცვის რეფორმის მხარდაჭერის პროექტი (EC),Program,Primary Healthcare Perform Project
+35 03 02 06,პირველადი ჯანდაცვის რეფორმის მხარდაჭერის პროექტი (EC),Program,Primary Healthcare Perform Project (EC)
 43 02,სახელმწიფო სექტორის ფინანსური მართვის მხარდაჭერის პროექტი (WB–SIDA–ნიდერლანდი– DFID),Program,Public Sector Financial Management Support Project (WB-SIDA- Netherlands-DFID)
 28 01 01,საგარეო პოლიტიკის დაგეგმვა და მართვა,Program,Foreign Policy Planning And Management
 29 04,თავდაცვის სფეროში სამეცნიერო კვლევების ხელშეწყობა,Program,Stimulation Of Scientific Research In Defense
@@ -95,7 +95,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 58 10 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (EU, KfW)",Program,"Rehabilitation of Communal Infrastructure Institutions  in Batumi (III Phase) (EU, KfW)"
 24 01 05,საქართველოში ინოვაციებისა და ტექნოლოგიების განვითარება,Program,Georgia's Innovation and Technology Development
 12 00,სახელმწიფო რწმუნებულის – გუბერნატორის ადმინისტრაცია ლანჩხუთის ოზურგეთისა და ჩოხატაურის მუნიციპალიტეტებში,SpendingAgency,"Administration of the State Representative – Governor in LANCHKHUTI, OZURGETI and CHOKHATAURI Municipalities"
-48 00,სსიპ - საქართველოს დაზღვევის სახელმწიფო ზედამხედველობის სამსახური,SpendingAgency,NNLP – Central Referral Laboratory of Public Health Care
+48 00,სსიპ - საქართველოს დაზღვევის სახელმწიფო ზედამხედველობის სამსახური,SpendingAgency,State Insurance Supervision Service
 32 03 01,პროფესიული განათლების ხელმისაწვდომობის და ხარისხის გაუმჯობესება,Program,Improved Quality And Affordability Of Vocational Education
 38 00,საქართველოს გარემოს დაცვის სამინისტრო,SpendingAgency,Ministry Of Environment
 25 04,წყალმომარაგების ინფრასტრუქტურის აღდგენა რეაბილიტაცია,Program,Refurbishment And Rehabilitation Of Water Supply Infrastructure
@@ -296,7 +296,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 22 00,რეინტეგრაციის საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office Of The State Minister For Reintegration
 37 01 04,სამელიორაციო სისტემების მოდერნიზაცია,Program,Modernization Of Melioration Systems
 34 01,იძულებით გადაადგილებულ პირთა და მიგრანტთა ხელშეწყობის მიზნით სახელმწიფო პოლიტიკის შემუშავება და პროგრამების მართვა,Program,State Policy Making And Program Management To Facilitate IDPs And Migrants
-32 03 01,პროფესიული განათლების განვითარების ხელშეწყობა,Program,Improved Quality And Affordability Of Vocational Education
+32 03 01,პროფესიული განათლების განვითარების ხელშეწყობა,Program,Promote The Development Of Vocational Education
 32 04 02 05 01,მეცნიერების აღდგენა და განვითარება - საქართველოს განათლებისა და მეცნიერების სამინისტროს განკარგვა,Program,Recovery And Development  Of Science - Ministry of Education and Science Disposal
 33 02 01,ხელოვნების განვითარების ღონისძიებები,Program,Activities For Art Development
 35 03 04 10,სამხედრო ძალებში გასაწვევ მოქალაქეთა სამედიცინო შემოწმება,Program,Medical Examination For Recruiting People In Military Forces
@@ -372,7 +372,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 19 00,სახელმწიფო რწმუნებულის - გუბერნატორის ადმინისტრაცია გორის კასპის ქარელისა და ხაშურის მუნიციპალიტეტებში,SpendingAgency,"Administration of the State Representative – Governor in GORI, KASPI, KARELI and KHASHURI Municipalities"
 37 00,საქართველოს სოფლის მეურნეობის სამინისტრო,SpendingAgency,Ministry of Agriculture of Georgia
 15 00,სახელმწიფო რწმუნებულის - გუბერნატორის ადმინისტრაცია დუშეთის თიანეთის მცხეთისა და ყაზბეგის მუნიციპალიტეტებში,SpendingAgency,"Administration of the State Representative – Governor in DUSHETI, TIANETI, MTSKHETA and KAZBEGI Municipalities"
-48 00,სსიპ საქართველოს დაზღვევის სახელმწიფო ზედამხედველობის სამსახური,SpendingAgency,NNLP – Central Referral Laboratory of Public Healthcare
+48 00,სსიპ საქართველოს დაზღვევის სახელმწიფო ზედამხედველობის სამსახური,SpendingAgency,State Insurance Supervision Service
 43 00,სსიპ - კონკურენციის სააგენტო,SpendingAgency,LEPL – Competition And Public Procurement Agency
 64 00,სსიპ - საქართველოს ინტელექტუალური საკუთრების ეროვნული ცენტრი - „საქპატენტი“,SpendingAgency,"National Intellectual Property Center - ""Sakpatenti"""
 11 00,"სახელმწიფო რწმუნებულის - გუბერნატორის ადმინისტრაცია აბაშის, ზუგდიდის, მარტვილის, მესტიის, სენაკის, ჩხოროწყუს, წალენჯიხის, ხობის მუნიციპალიტეტებში, ქალაქ ფოთისა და ქალაქ ზუგდიდის მუნიციპალიტეტებში",SpendingAgency,"Administration of the State Representative – Governor in ABASHA, ZUGDIDI, MARTVILI, MESTIA, SENAKI, CHKHOROTSKU, TSALENJIKHA, KHOBI Municipalities and the Municipalities of Poti and Zugdidi"
@@ -693,7 +693,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 32 05 02 04,სამინისტროს სისტემაში შემავალი საჯარო სამართლის იურიდიული პირებისა და ტერიტორიული ორგანოების  ინფრასტრუქტურის განვითარება,Program,Development Of Infrastructure For Legal Entities And Territorial Authorities Subordinated to the Ministry
 32 04 03,"სახელმწიფო სასწავლო, სამაგისტრო გრანტები, დოქტორანტურის პროგრამები და ახალგაზრდების წახალისება",Program,"State Education, Master's Degree Grants, PHD Programs And Youth Facilitation"
 27 03,სასჯელაღსრულებისა და პრობაციის სისტემის თანამშრომელთა მომზადება და პროფესიული განვითარება,Program,Corrections Staff Training And Professional Development
-33 05 01,კულტურის სფეროს ფინანსური გაძლიერების პროგრამა,Program,Financial Empowerment Program Of Culture
+33 05 01,კულტურის სფეროს ფინანსური გაძლიერების პროგრამა,Program,Financial Empowerment Program Of Culture Field
 33 05 02,კულტურის სფეროს მდგრადობის უზრუნველყოფის საინვესტიციო ფონდი,Program,Investment Fund For Sustainability of Culture Field
 35 03 03 14,"საქართველოში აივ ინფექცია/შიდსის პრევენციის მიზნით არსებული ეროვნული რეაგირების მხარდაჭერა, აივ ინფექცია/შიდსით დაავადებულთა სიცოცხლის მაჩვენებლების გაუმჯობესება მკურნალობისა და მოვლის ღონისძიებების გაძლიერების გზით",Program,"National Response Support For HIV / AIDS Prevention In Georgia, HIV / AIDS treatment And Care Measures Strengthening  To Increase Life Index"
 27 01 03,პენიტენციური სისტემის ინფრასტრუქტურის გაუმჯობესება,Program,Improving The Infrastructure Of The Penitentiary System
@@ -738,6 +738,70 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 24 07,ბაქო–თბილისი–ყარსის სარკინიგზო მაგისტრალის მშენებლობისათვის მარაბდა–ახალქალაქი–კარწახის მონაკვეთზე კერძო საკუთრებაში არსებული მიწების გამოსყიდვა-კომპენსაცია,Program,Compensation For The Private Land Acquisition Along Marabda-Akhalkalaki-Kartsakhi Section For The Construction Of Baku-Tbilisi-Karsi Railway
 32 05 02 03,უმაღლესი და სამეცნიერო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Development Of Higher Scientific Institutions And Infrastructure
 32 05 02 04,სამინისტროს სისტემაში შემავალი საჯარო სამართლის იურიდიული პირებისა და ტერიტორიული ორგანოების ინფრასტრუქტურის განვითარება,Program,Development Of Infrastructure For Legal Entities And Territorial Authorities Subordinated to the Ministry
-34 00,"საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა, განსახლებისა და ლტოლვილთა სამინისტრო",SpendingAgency,"Ministry OF Internally Displaced Persons From The Occupied Territories, Accommodation And Refugees Of Georgia"
-34 00,"საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა, განსახლებისა და ლტოლვილთა სამინისტრო",SpendingAgency,"Ministry OF Internally Displaced Persons From The Occupied Territories, Accommodation And Refugees Of Georgia"
+34 00,"საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა, განსახლებისა და ლტოლვილთა სამინისტრო",SpendingAgency,"Ministry Of Internally Displaced Persons From The Occupied Territories, Accommodation And Refugees Of Georgia"
+34 00,"საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა, განსახლებისა და ლტოლვილთა სამინისტრო",SpendingAgency,"Ministry Of Internally Displaced Persons From The Occupied Territories, Accommodation And Refugees Of Georgia"
 36 01,ენერგეტიკის სფეროში პოლიტიკის შემუშავება და მართვა,Program,Policy Making And Management In Energy Area
+24 06,"საქართველოს მიერ საერთაშორისო ხელშეკრულებებით ნაკისრი ვალდებულებების ფარგლებში საქართველოს აეროპორტებში „გათავისუფლებული ფრენების“ მომსახურების ხარჯების ანაზღაურება (მათ შორის, წინა წლებში წარმოქმნილი დავალიანებების დაფარვა)",Program,Compensation Of Landing Fees Committed By Georgia Within International Agreements (Including For The Arrears Accrued In Previous Years)
+24 07,ბაქო–თბილისი–ყარსის სარკინიგზო მაგისტრალის მშენებლობისათვის მარაბდა–ახალქალაქი–კარწახის მონაკვეთზე კერძო საკუთრებაში არსებული მიწების გამოსყიდვა- კომპენსაცია,Program,Compensation For The Private Land Acquisition Along Marabda-Akhalkalaki-Kartsakhi Section For The Construction Of Baku-Tbilisi-Karsi Railway
+24 08,საფრანგეთის სასაქონლო დახმარება (საფრანგეთის მთავრობა),Program,French Commodity Aid (Government of France)
+32 02 06,სიღარიბის ზღვრის ქვემოთ მყოფი მოსწავლეების სახელმძღვანელოებით უზრუნველყოფა,Program,Provision Of Textbooks To School Children Below The Porverty Line 
+32 02 09,სასჯელაღსრულების დაწესებულებებში განათლების მიღების ხელშეწყობის პროგრამა,Program,Program For Simulation Of Education At Penitentiary System Institutions
+26 03,"ეროვნული საარქივო ფონდის დაცულობის, მომსახურების თანამედროვე ტექნოლოგიების დანერგვისა და დოკუმენტების ხელმისაწვდომობის უზრუნველყოფა",Program,"Protection Of National Archive Fund, Introduction Of Modern Technologies Of Services And Ensured Access To Documents"
+27 01,პენიტენციარული სისტემის პოლიტიკის შემუშავება და მართვა,Program,Policy Making And Management For Penitentiary System
+26 11,"ტურისტული, საინვესტიციო და ინფრასტრუქტურული პროექტების კოორდინაცია და მონიტორინგი",Program,"Coordinating And Monitoring Of Tourism, Investment And Infrastructural Projects"
+28 01 03,საერთაშორისო ხელშეკრულებებისა და სხვა დოკუმენტების თარგმნა და დამოწმება,Program,Translation And Validation Of International Agreements And Other Documents
+32 06 02 04,განათლებისა და მეცნიერების სამინისტროს სისტემაში შემავალი საჯარო სამართლის იურიდიული პირებისა და ტერიტორიული ორგანოების ინფრასტრუქტურის განვითარება,Program,Development Of Infrastructure For Legal Entities And Territorial Authorities Subordinated to the Ministry Of Education
+45 01,სასულიერო განათლების და ხელშეწყობის გრანტი,Program,Theological Education Assistance Grant
+32 03 01,პროფესიული განათლების ხელმისაწვდომობისა და ხარისხის გაუმჯობესება,Program,Improved Quality And Affordability Of Vocational Education
+32 04 04,უმაღლესი განათლებისა და სამეცნიერო-კვლევითი პროექტების ხელშეწყობა,Program,Promotion of Higher Education and Research-Scientific Projects
+32 06 02 02,პროფესიული საგანმანათლებლო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Infrastructure Development Of Professional Educational Institutions
+49 11,ორგანიზაციების წინა წლებში წარმოქმნილი საგადასახადო დავალიანებების დაფარვა,Program,Cover The Tax Indebtedness Accrued In Previous Years
+33 02,ხელოვნების დარგების განვითარების ხელშეწყობა და პოპულარიზაცია საქართველოში და მისი ფარგლების გარეთ,Program,Facilitated Development Of Arts In Georgia And Its Promotion Overseas
+32 05 02 03,უმაღლესი საგანმანათლებლო და სამეცნიერო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Development Of Higher Scientific Institutions And Infrastructure
+33 05,კულტურის სფეროს მდგრადობის უზრუნველყოფისა და ფინანსური ძლიერების პროგრამა,Program,Financial Empowerment And Stability Program For Culture Field
+35 01 05,"სახელმწიფო ზრუნვის, ადამიანით ვაჭრობის (ტრეფიკინგის) მსხვერპლთა დაცვისა და დახმარების პროგრამა",Program,"State Care, Human Trafficking And The Protection Of Victims Assistance Program"
+35 02 05,სამუშაოს მაძიებელთა აღრიცხვისა და საქართველოს ოკუპირებული ტერიტორიებიდან იძულებით გადაადგილებულ პირთა − დევნილთა საჭიროებების შეფასების პროგრამა,Program, Needs Assessment Program For Job seekers and Internally Displaced Persons
+30 04,საქართველოს შინაგან საქმეთა სამინისტროს სისტემის მოსამსახურეთა ჯანმრთელობის დაცვის მომსახურებით უზრუნველყოფა,Program,Provision of Healthcare Services to the System of the Ministry of Interior
+35 03 03 11,პირველადი ჯანდაცვის რეფორმის მხარდაჭერის პროექტი (ევროკავშირი),Program,Primary Healthcare Perform Project (European Union)
+35 03 03 12,ჯანდაცვის სექტორის განვითარების პროექტი (მსოფლიო ბანკი),Program,Healthcare Sector Development Project (WB)
+35 03 03 07,"სასწრაფო, გადაუდებელი დახმარება და სამედიცინო ტრანსპორტირება",Program,"Urgent, Emergency Assistance and Medical Transportation"
+37 01 11,მანდარინის (არასტანდარტულის) მოსავლის რეალიზაციის ხელშეწყობის ღონისძიებები,Program,Tangerine (Non-Standard) Crop Realization Measures
+37 04,სოფლის მეურნეობის დარგში სამეცნიერო- კვლევითი ღონისძიებების განხორციელება,Program,Promotion of Higher Education and Research-Scientific Projects
+36 05,ხარაგაულის სათემო ტყის საცდელი პროექტი (გერმანიის რეკონსტრუქციის საკრედიტო ბანკი),Program,Kharagauli Community Forest Pilot Project (German Reconstruction Credit Bank)
+37 04,სოფლის მეურნეობის დარგში სამეცნიერო-კვლევითი ღონისძიებების განხორციელება,Program,Promotion of Higher Education and Research-Scientific Projects
+44 00,ყოფილი სამხრეთ ოსეთის ავტონომიური ოლქის ტერიტორიაზე დროებითი ადმინისტრაციულ-ტერიტორიული ერთეულის ადმინისტრაცია – სამხრეთ ოსეთის ადმინისტრაცია,SpendingAgency,Provisional Administrative-Territorial Entity Administration At The Former South Ossetian Autonomous District-Administration Of South Ossetia
+45 02,ა(ა)იპ – საქართველოს საპატრიარქოს წმიდა სვიმონ კანანელის სახელობის სასულიერო სწავლების ცენტრი,Program,Grant For NNLP Theological Teaching Centre of St. Svimon Kananeli Church
+45 12,ა(ა)იპ – ახალქალაქისა და კუმურდოს ეპარქიის სასწავლო ცენტრისათვის გადასაცემი გრანტი,Program,Grant for NNLP Akhalkalaki and Kumurdo Diocese Center
+45 13,ა(ა)იპ – ფოთის საგანმანათლებლო და კულტურულ-გამაჯანსაღებელი ცენტრი,Program,NNLP Poti Educational And Cultural Center
+45 05,საქართველოს საპატრიარქოს ბათუმის წმიდა მოწამე ეკატერინეს სახელობის სათნოების სავანისათვის გადასაცემი გრანტი,Program,Grant For Patriarchate of Georgia Batumi Saint Catherine's Monastery
+45 06,საქართველოს საპატრიარქოს წმიდა ანდრია პირველწოდებულის სახელობის სასულიერო სწავლების ცენტრისათვის გადასაცემი გრანტი,Program,Grant for St. Andrew First-Called Theological Training Centre
+45 08,საქართველოს საპატრიარქოს წმიდა ანდრია პირველწოდებულის სახელობის ქართული უნივერსიტეტისათვის გადასაცემი გრანტი,Program,Grant for St. Andrew First-Called Georgian University
+45 09,ა(ა)იპ – საქართველოს საპატრიარქოს ტბელ აბუსერისძის სახელობის უნივერსიტეტისათვის გადასაცემი გრანტი,Program,Grant for Georgian Patriarchate NNLP Tbel Abuseridze University
+52 02,საქართველოს საერთაშორისო საარბიტრაჟო ცენტრი,Program,International Arbitration Center
+52 03,სხვადასხვა ქვეყანაში საქართველოს სავაჭრო-სამრეწველო პალატის წარმომადგენლობების დაფინანსება,Program,Funding Georgian Representations Of Chamber Of Commerce In Different Countries
+58 00,სსიპ – განათლების საერთაშორისო ცენტრი,SpendingAgency,International Center Of Education
+45 10,ა(ა)იპ – სმენადაქვეითებულ ბავშვთა რეაბილიტაციისა და ადაპტაციის ცენტრისათვის გადასაცემი გრანტი,Program,Grant For NNLP Rehabilitation And Adaptation Centre For Children With Hear Impairment
+45 13,ა(ა)იპ − ფოთის საგანმანათლებლო და კულტურულ-გამაჯანსაღებელი ცენტრი,Program,NNLP Poti Educational And Cultural Center
+62 00,საერთო-სახელმწიფოებრივი მნიშვნელობის გადასახდელები,SpendingAgency,General State Importance Expenditures
+51 07,წინა წლებში წარმოქმნილი დავალიანებების დაფარვისა და სასამართლო გადაწყვეტილებების აღსრულების ფონდი,Program,Coverage Of The Arrears Accrued In Previous Years And Execution Of Court Decisions
+48 00,სსიპ − საქართველოს დაზღვევის სახელმწიფო ზედამხედველობის სამსახური,SpendingAgency,State Insurance Supervision Service
+49 00,სსიპ − საქართველოს ეროვნული საინვესტიციო სააგენტო,SpendingAgency,Georgian National Investment Agency
+58 04,ავტონომიური რესპუბლიკებისა და თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Autonomous Republics And Local Self-Government Entities 
+50 00,სსიპ − საჯარო სამსახურის ბიურო,SpendingAgency,NNLP Civil Service Bureau
+58 04 02,თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Local Self-Government Entities
+58 07 02,წინა წლებში წარმოქმნილი დავალიანების დაფარვისა და სასამართლო გადაწყვეტილებების აღსრულების ფონდი – საქართველოს ფინანსთა სამინისტრო,Program,Repayment Of Debt Accumulated In Previous Years And Execution Of Court Decisions - Ministry Of Finance
+51 11 09,ათასწლეულის გამოწვევა საქართველოს − მეორე პროექტი (MCC),Program,Second Project Of Millennium Challenge Georgia (MMC)
+58 10,დონორების მიერ დაფინანსებული საერთო-სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
+62 11,საერთაშორისო ორგანიზაციებთან არსებული ხელშეკრულებების ფარგლებში ქართული მხარის მიერ ნაკისრი ვალდებულებების დაფარვა,Program,Liabilities Of Georgian Side For Existing Agreements At International Organizations
+62 12,დონორების მიერ დაფინანსებული საერთო- სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
+58 10 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (KfW, EU)",Program,"Rehabilitation Of Communal Infrastructure (III phase) (KfW, EU)"
+06 05,ამომრჩეველთა სიების დაზუსტების უზრუნველყოფის პროგრამა,Program,Program for Specifying Voters List
+60 00,ა(ა)იპ – რიჩარდ გ. ლუგარის საზოგადოებრივი ჯანმრთელობის კვლევითი ცენტრი,SpendingAgency,NNLP – Richard G Lugar Public Health Research Centre
+11 00,"სახელმწიფო რწმუნებულის – გუბერნატორის ადმინისტრაცია აბაშის, ზუგდიდის, მარტვილის, მესტიის, სენაკის, ჩხოროწყუს, წალენჯიხის, ხობის მუნიციპალიტეტებსა და ქალაქ ფოთისა და ქალაქ ზუგდიდის მუნიციპალიტეტებში",SpendingAgency,"Administration of the State Representative – Governor in ABASHA, ZUGDIDI, MARTVILI, MESTIA, SENAKI, CHKHOROTSKU, TSALENJIKHA, KHOBI Municipalities and City Municipalities of Poti and Zugdidi"
+53 11 07,ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (I ფაზა) (გერმანიის რეკონსტრუქციის საკრედიტო ბანკი),Program,Rehabilitation Of Communal Infrastructure (I phase) (KfW)
+53 11 08,გოდერძის ხეობაში სათხილამურო საბაგიროების მოწყობა (ავსტრიის უნიკრედიტ ბანკი),Program,Ski Cable Arrangement In Goderzi Valley (UniCredit Bank Austria AG)
+53 11 09,რუსთავის მყარი ნარჩენების პროექტი (ევროპის რეკონსტრუქციისა და განვითარების ბანკი),Program,Rustavi Solid Waste Project (EBRD)
+53 11 10,ათასწლეულის გამოწვევა საქართველოს (ათასწლეულის გამოწვევის კორპორაცია),Program,Millennium Challenge Georgia (Millennium Challenge Corporation)
+63 00,სსიპ – სახელმწიფო შესყიდვების სააგენტო,SpendingAgency,Public Procurement Agency 
+54 00,საქართველოს დასაქმების სახელმწიფო მინისტრის აპარატი,SpendingAgency,Georgian State Minister for Employment
+27 01 01,"პენიტენციური სისტემის პოლიტიკის შემუშავება, მართვა და ბრალდებულთა/მსჯავრდებულთა ყოფითი პირობების გაუმჯობესება",Program,"Penitentiary policy development, management, and improving life conditions for accused and condemned"
