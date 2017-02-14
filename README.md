@@ -6,21 +6,15 @@ This repository contains all of the files necessary for running the budget data 
 
 The Georgian government creates new documents over time, containing financial information about the Georgian budget. It is necessary to add those documents to this repo every once in a while to keep this project up to date.
 
-The process of updating this repo with the new documents isn't always straightforward, so it's outlined here and explained in detail in the sections below. If the files released by the Georgian government have changed, you may have to modify this process.
+The process of updating this repo with the new documents isn't straightforward, so it's outlined here and explained in detail in the sections below. If the files released by the Georgian government have changed, you may have to modify this process.
 
 1. Add new monthly spreadsheets, yearly spreadsheets, and priority PDFs
-2. Run the uploader
+2. Run the uploader (check Georgian-Budget-API README documentation)
 3. Update the program and agency translations
 4. Update the possible duplicates
 5. Update the priority associations
 6. Run the uploader again with the newly updated support files
 7. Check that the data has been correctly uploaded
-
-## Running the uploader
-
-Look at the Georgian-Budget-API's documentation for info on how to run the uploader.
-
-TODO: Check that the API has documentation on running the uploader
 
 ## Monthly Spreadsheets
 
@@ -59,7 +53,13 @@ Note: The idea behind this naming scheme was that it should be clear when the go
 
 ### Format
 
-TODO
+The data in the yearly spreadsheet is detected based on the column number, so you may have to rearrange the columns to adapt a spreadsheet to this format.
+
+- Code: Column #2, *required*
+- Name: Column #3, *required*
+- Spent two years earlier: Column #4
+- Planned previous year: Column #5
+- Planned current year: Column #6
 
 ## Priority PDFs
 
@@ -73,10 +73,10 @@ Copy the priority pdf to `files_from_government/priority_pdfs/priorities-yyyy.pd
 
 Process for translating the name of a program or spending agency:
 
-1. Run rake task for outputting translations TODO. If all names are translated, you can stop here. If there are new names to be translated, continue.
-1. Copy the current `budget_item_translations.csv` file contents to a spreadsheet somewhere.
+1. Run rake task for outputting translations (run `rake -T budget_data` in the Georgian-Budget-API app to find this task). If all names are translated, you can stop here; otherwise, continue with these instructions.
+1. Import this repo's `budget_item_translations.csv` into a spreadsheet.
 1. Add the new, untranslated names to the bottom of the spreadsheet.
-1. Translate them according to the below procedure.
+1. Translate them according to the procedure below.
 1. When finished, export to CSV and update this repo's `budget_item_translations.csv` file
 
 ### How to translate a name
@@ -89,7 +89,29 @@ Note: The government translated its budget (the priority PDF) into English in 20
 
 ## Update possible duplicates
 
-TODO
+1. Run rake task for outputting new possible duplicates (run `rake -T budget_data` in the Georgian-Budget-API app to find this task). If there are no new possible duplicates, you can stop here; otherwise, continue with these instructions.
+1. Import this repo's `duplicate_pairs.csv` into a spreadsheet.
+1. Add the new possible duplicate pairs to the bottom of the spreadsheet.
+1. Decide whether the pairs should be merged, and if so, whether the name change is significant. (See below instructions.)
+1. When finished, export the spreadsheet to CSV and update the repo with the new `duplicate_pairs.csv`.
+
+### How to decide whether a pair of items should be merged
+
+1. Compare the names. If it's obvious just from their names that they're the same or different, then that's all you need to do. If it's not obvious, try the steps below.
+1. Compare the descriptions of the programs/agencies in the priority PDFs.
+1. You can also compare the amounts at the end of each row for guidance. If the items have similar average monthly amounts, then that may be a hint indicating that they should be merged. If the amounts are very different, then that may indicate that the two items are different. (You probably shouldn't base your decision on this factor alone.)
+1. Another hint can come from the first monthly amount of the second item. The amounts in the monthly spreadsheets created by the government are recorded cumulatively, so each finance needs to know about the previous months' finances to be saved correctly to the database. For example, if a program's name changes in the middle of the year, then the first monthly amount of the second item in the pair will likely be higher than the monthly average.
+
+### How to decide whether the name change is significant
+
+If you decide that the items should be merged, then you need to decide whether the name change here is significant. A "significant" name change is one in which both names should ideally be shown to anyone looking at the agency or program over time.
+
+For example, consider a program in which the names changed in this way:
+
+2012: School development in Vake, Saburtalo, and Sololaki
+2013: School development in Vake, Saburtalo, Sololaki, and Gldani
+
+If you decide that these programs are indeed the same and should be merged, then you should probably mark the name change as significant, so that people will know what they are looking at.
 
 ## Update priority associations
 
