@@ -59,11 +59,11 @@ Note: The idea behind this naming scheme was that it should be clear when the go
 
 The data in the yearly spreadsheet is detected based on the column number, so you may have to rearrange the columns to adapt a spreadsheet to this format.
 
-- Code: Column #2, *required*
-- Name: Column #3, *required*
-- Spent two years earlier: Column #4
-- Planned previous year: Column #5
-- Planned current year: Column #6
+* Code: Column #2, *required*
+* Name: Column #3, *required*
+* Spent two years earlier: Column #4
+* Planned previous year: Column #5
+* Planned current year: Column #6
 
 ## Priority PDFs
 
