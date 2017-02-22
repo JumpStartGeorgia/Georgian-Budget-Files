@@ -33,10 +33,10 @@ The process of updating this repo with new documents isn't straightforward, so i
 
 Each spreadsheet must have four columns, one each for codes, names, planned finances and spent finances. The columns must have the text within these strings as headers:
 
-Code: "ორგანიზაც. კოდი"
-Name: "დ ა ს ა ხ ე ლ ე ბ ა"
-Planned Finances: "გეგმა"
-Spent Finances: "გადახდა"
+* Code: "ორგანიზაც. კოდი"
+* Name: "დ ა ს ა ხ ე ლ ე ბ ა"
+* Planned Finances: "გეგმა"
+* Spent Finances: "გადახდა"
 
 Columns with other headers will be ignored.
 
