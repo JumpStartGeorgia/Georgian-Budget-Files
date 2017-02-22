@@ -2,14 +2,18 @@
 
 This repository contains all of the files necessary for running the budget data uploader, which creates a structured database of information about the Georgian Budget. This uploader can be found in the [JumpStartGeorgia/Georgian-Budget-API repo](https://github.com/JumpStartGeorgia/Georgian-Budget-API/).
 
-## How to update this Repo
+The files presented here are split into two groups:
+1. Those received from the Georgian government, either via their website or Freedom of Information requests. The format of these files has been modified to work with the uploader (but the data has not been modified, of course)
+2. Support files necessary for running the uploader. These files include a list of the twelve budget priorities, the connections between priorities and their programs and agencies, English translations of the names of all budget items, and a list of budget item pairs that are similar but not identical and whether they should be merged into one item or left as separate items.
+
+## How to update these files
 
 The Georgian government creates new documents over time, containing financial information about the Georgian budget. It is necessary to add those documents to this repo every once in a while to keep this project up to date.
 
-The process of updating this repo with the new documents isn't straightforward, so it's outlined here and explained in detail in the sections below. If the files released by the Georgian government have changed, you may have to modify this process.
+The process of updating this repo with new documents isn't straightforward, so it's outlined here and explained in detail in the sections below. If the files released by the Georgian government have changed, you may have to modify this process.
 
 1. Add new monthly spreadsheets, yearly spreadsheets, and priority PDFs
-2. Run the uploader (check Georgian-Budget-API README documentation)
+2. Run the uploader (see Georgian-Budget-API README)
 3. Update the program and agency translations
 4. Update the possible duplicates
 5. Update the priority associations
@@ -73,9 +77,9 @@ Copy the priority pdf to `files_from_government/priority_pdfs/priorities-yyyy.pd
 
 Process for translating the name of a program or spending agency:
 
-1. Run rake task for outputting translations (run `rake -T budget_data` in the Georgian-Budget-API app to find this task). If all names are translated, you can stop here; otherwise, continue with these instructions.
+1. Run rake task for outputting translations (run `rake -T budget_data` in the Georgian-Budget-API app to find this task). If all names are translated, you can stop here.
 1. Import this repo's `budget_item_translations.csv` into a spreadsheet.
-1. Add the new, untranslated names to the bottom of the spreadsheet.
+1. Add the new, exported names to the bottom of the spreadsheet.
 1. Translate them according to the procedure below.
 1. When finished, export to CSV and update this repo's `budget_item_translations.csv` file
 
@@ -83,16 +87,16 @@ Process for translating the name of a program or spending agency:
 
 1. Search for the code in the English version of the 2012 priorities PDF.
 1. If the code is there, and the English name is clearly a translation of the Georgian name, then use that English name.
-1. If the code is not there, or the English name is not a correct translation of the Georgian name (the code might have changed since 2012), then you have to translate the name yourself.
+1. If the code is not there, or the English name is not a correct translation of the Georgian name (it might be a translation of a different program, as the codes change), then you have to translate the name yourself.
 
 Note: The government translated its budget (the priority PDF) into English in 2012, but not in subsequent years.
 
 ## Update possible duplicates
 
-1. Run rake task for outputting new possible duplicates (run `rake -T budget_data` in the Georgian-Budget-API app to find this task). If there are no new possible duplicates, you can stop here; otherwise, continue with these instructions.
+1. Run rake task for outputting new possible duplicates (run `rake -T budget_data` in the Georgian-Budget-API app to find this task). If there are no new possible duplicates, you can stop here.
 1. Import this repo's `duplicate_pairs.csv` into a spreadsheet.
 1. Add the new possible duplicate pairs to the bottom of the spreadsheet.
-1. Decide whether the pairs should be merged, and if so, whether the name change is significant. (See below instructions.)
+1. Decide whether each pair should be merged, and if so, whether the name change is significant. (See below instructions.)
 1. When finished, export the spreadsheet to CSV and update the repo with the new `duplicate_pairs.csv`.
 
 ### How to decide whether a pair of items should be merged
@@ -104,7 +108,7 @@ Note: The government translated its budget (the priority PDF) into English in 20
 
 ### How to decide whether the name change is significant
 
-If you decide that the items should be merged, then you need to decide whether the name change here is significant. A "significant" name change is one in which both names should ideally be shown to anyone looking at the agency or program over time.
+If you decide that the items should be merged, then you need to decide whether the name change here is significant. A "significant" name change is one in which both names should ideally be shown to anyone looking at the agency or program.
 
 For example, consider a program in which the names changed in this way:
 
