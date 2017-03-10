@@ -124,3 +124,5 @@ TODO
 ## Check that data has been correctly uploaded
 
  At the very least, you should compare a few values from the spreadsheets to the values on the site. You may want to take a more systematic approach if you have added a lot of data.
+
+ You can also check the suspicious items directory in tmp, which should be exported when the budget uploader finishes.
