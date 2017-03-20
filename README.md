@@ -119,7 +119,7 @@ If you decide that these programs are indeed the same and should be merged, then
 
 ## Update priority associations
 
-TODO
+Please refer to the [Georgian Budget - Priority Mapping repo](https://github.com/JumpStartGeorgia/Georgian-Budget-Priority-Mapping) to learn how programs/agencies are assigned to priorities.
 
 ## Check that data has been correctly uploaded
 
