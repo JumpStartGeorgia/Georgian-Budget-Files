@@ -47,13 +47,13 @@ Columns with other headers will be ignored.
 1. Modify the spreadsheet to adhere to the format described below.
 1. Copy the CSV into the `files_from_government/yearly_spreadsheets` directory. If you did not need to change the format of the spreadsheet, then use this file name:
 
-`yearly_spreadsheet-yyyy-formatted.xlsx`
+`yearly_spreadsheet-yyyy-original-formatted.xlsx`
 
 If you did change the format of the spreadsheet, then use this file name:
 
-`yearly_spreadsheet-yyyy-original-formatted.xlsx`
+`yearly_spreadsheet-yyyy-formatted.xlsx`
 
-Note: The idea behind this naming scheme was that it should be clear when the government's documents have been reformatted for the purposes of this uploader. Ideally, we would use a similar naming scheme in the monthly spreadsheets above.
+In this naming scheme, a file is named `original` if it has not been changed from the original document we received from the government, and `formatted` if it is in the format needed by the uploader. In the future, we may want to add the original documents in addition to the formatted documents, so that people can download the originals using the API. In this case, we can just add a corresponding `yearly_spreadsheet-yyyy-original.xlsx` file for each formatted file.
 
 ### Format
 
@@ -63,7 +63,7 @@ The data in the yearly spreadsheet is detected based on the column number, so yo
 * Name: Column #3, *required*
 * Spent two years earlier: Column #4
 * Planned previous year: Column #5
-* Planned current year: Column #6
+* Planned current year: Column #6 (use the column with სულ as its heading)
 
 ## Priority PDFs
 
