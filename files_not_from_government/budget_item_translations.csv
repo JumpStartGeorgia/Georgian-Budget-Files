@@ -76,15 +76,15 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 20 00,ევროპულ და ევროატლანტიკურ სტრუქტურებში ინტეგრაციის საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office Of The State Minister Of Georgia For Integration In European And Euro-Atlantic Structures
 21 00,დიასპორის საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office Of The State Minister For The Georgian Diaspora
 22 00,რეინტეგრაციის საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office Of The State Minister For Reintegration
-22 00,შერიგებისა და სამოქალაქო თანასწორობის საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office Of The State Minister Of Georgia For Reconsiliation And Civic Equality
+22 00,შერიგებისა და სამოქალაქო თანასწორობის საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office Of The State Minister Of Georgia For Reconciliation And Civic Equality
 23 00,საქართველოს ფინანსთა სამინისტრო,SpendingAgency,The Ministry of Finance
 23 01,სახელმწიფო ფინანსების მართვა,Program,Public Funds Management
 23 02,შემოსავლების მობილიზება და გადამხდელთა მომსახურების გაუმჯობესება,Program,Collection Of Revenues And Improvement Of Taxpayer Services
 23 03,ეკონომიკური დანაშაულის პრევენცია,Program,Prevention Of Economic Crime
-23 04,ფინანსების მართვის ელექტრონული და ანალიტიკური უზრუნველყოფა,Program,Electronic Support And Analysis Of Funds Management 
+23 04,ფინანსების მართვის ელექტრონული და ანალიტიკური უზრუნველყოფა,Program,Electronic Support And Analysis Of Funds Management
 23 05,საფინანსო სექტორში დასაქმებულთა კვალიფიკაციის ამაღლება,Program,Improvement Of Staff Qualifications In The Financial Sector
 24 00,საქართველოს ეკონომიკისა და მდგრადი განვითარების სამინისტრო,SpendingAgency,Ministry of Economy and Sustainable Development
-24 01,ეკონომიკური პოლიტიკა და სახელმწიფო ქონების მართვა,Program,Economic Policy And State Property Management 
+24 01,ეკონომიკური პოლიტიკა და სახელმწიფო ქონების მართვა,Program,Economic Policy And State Property Management
 24 01,"ეკონომიკური და სექტორული (ტრანსპორტი, მშენებლობა) პოლიტიკა და მისი განხორციელების კოორდინაცია",Program,"Economic And Sectoral (Transport, Construction) Policy Making And Its Implementation"
 24 01,"ეკონომიკური და სექტორული (ტრანსპორტი,მშენებლობა) პოლიტიკა და მისი განხორციელების კოორდინაცია",Program,"Economic And Sectoral (Transport, Construction) Policy Making And Its Implementation"
 24 01 01,ეკონომიკური პოლიტიკის შემუშავება განხორციელება და სახელმწიფო ქონების პრივატიზება,Program,"Economic Policy Making, Implementation And Privatization Of State Property"
@@ -96,7 +96,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 24 01 03,სახელმწიფო ობიექტების მოვლა შენახვა,Program,Maintenance of State Facilities
 24 01 03,მეწარმეობის განვითარება,Program,Entrepreneurship Development
 24 01 03,"ელექტრონული კომუნიკაციების, საინფორმაციო ტექნოლოგიებისა და საფოსტო კავშირის განვითარება",Program,"Development Of Electronic Communications, Information Technology And Postal Union"
-24 01 03,ელექტრონული კომუნიკაციების საინფორმაციო ტექნოლოგიებისა და საფოსტო კავშირის განვითარება,Program,"Development Of Electronic Communications, Information Technology And Postal Union "
+24 01 03,ელექტრონული კომუნიკაციების საინფორმაციო ტექნოლოგიებისა და საფოსტო კავშირის განვითარება,Program,"Development Of Electronic Communications, Information Technology And Postal Union"
 24 01 04,საქართველოში ციფრულ მაუწყებლობაზე გადასვლა,Program,Georgia's Transition To Digital Broadcasting
 24 01 05,საქართველოში ინოვაციებისა და ტექნოლოგიების განვითარება,Program,Georgia's Innovation and Technology Development
 24 01 05,საქართველოში ინოვაციებისა და ტექნოლოგიების განვითარება,Program,Georgia's Innovation and Technology Development
@@ -109,7 +109,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 24 05,აკრედიტაციის პროცესის მართვა და განვითარება,Program,Management And Development Of Accreditation Process
 24 05,აკრედიტაციის პროცესის მართვა და განვითარება,Program,Management And Development Of Accreditation Process
 24 06,ტურიზმის განვითარების ხელშეწყობა,Program,Stimulation Of Tourism Development
-24 06,ტურიზმის განვითარების ხელშეწყობა,Program,Stimulation Of Tourism Development 
+24 06,ტურიზმის განვითარების ხელშეწყობა,Program,Stimulation Of Tourism Development
 24 06,"საქართველოს მიერ საერთაშორისო ხელშეკრულებებით ნაკისრი ვალდებულებების ფარგლებში საქართველოს აეროპორტებში ""გათავისუფლებული ფრენების"" მომსახურების ხარჯების ანაზღაურება (მათ შორის, წინა წლებში წარმოქმნილი დავალიანებების დაფარვა)",Program,Compensation Of Landing Fees Committed By Georgia Within International Agreements (Including For The Arrears Accrued In Previous Years)
 24 06,"საქართველოს მიერ საერთაშორისო ხელშეკრულებებით ნაკისრი ვალდებულებების ფარგლებში საქართველოს აეროპორტებში „გათავისუფლებული ფრენების“ მომსახურების ხარჯების ანაზღაურება (მათ შორის, წინა წლებში წარმოქმნილი დავალიანებების დაფარვა)",Program,Compensation Of Landing Fees Committed By Georgia Within International Agreements (Including For The Arrears Accrued In Previous Years)
 24 07,ბაქო–თბილისი–ყარსის სარკინიგზო მაგისტრალის მშენებლობისათვის მარაბდა–ახალქალაქი–კარწახის მონაკვეთზე კერძო საკუთრებაში არსებული მიწების გამოსყიდვა კომპენსაცია,Program,Compensation For The Private Land Acquisition Along Marabda-Akhalkalaki-Kartsakhi Section For The Construction Of Baku-Tbilisi-Karsi Railway
@@ -162,9 +162,9 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 26 08,სახელმწიფო სერვისების განვითარების სააგენტოს მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,Development and Availability To Public Service Development Agency Services
 26 08,დანაშაულის პრევენცია და ინოვაციური პროგრამები,Program,Crime Prevention And Innovative Programs
 26 09,ტურისტული საინვესტიციო და ინფრასტრუქტურული პროექტების კოორდინაცია და მონიტორინგი,Program,Coordinate And Monitor Tourism Investment and Infrastructure Projects
-26 09,იუსტიციის სახლის მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,Development And Accessibility To Services In Public Service Hall 
+26 09,იუსტიციის სახლის მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,Development And Accessibility To Services In Public Service Hall
 26 09,მიწის ბაზრის განვითარება (WB),Program,Land Market Development (WB)
-26 10,იუსტიციის სახლის მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,Development and Accessibility To Public Service Hall Services 
+26 10,იუსტიციის სახლის მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,Development and Accessibility To Public Service Hall Services
 26 10,ნორმატიული აქტების სისტემატიზაცია და მთარგმნელობითი ცენტრის განვითარება,Program,Systematization Of Normative Acts And Development Of Translation Centre
 26 11,"ტურისტული, საინვესტიციო და ინფრასტრუქტურული პროექტების კოორდინაცია და მონიტორინგი",Program,"Coordinating And Monitoring Of Tourism, Investment And Infrastructural Projects"
 26 12,საჯარო რეესტრის ეროვნული სააგენტოს მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,Development And Availability Of Services Of National Agency of Public Registry
@@ -201,7 +201,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 28 02,მოხელეთა კვალიფიკაციის ამაღლება საერთაშორისო ურთიერთობების დარგში,Program,Improvement Of Staff Qualifications In International Relations
 29 00,საქართველოს თავდაცვის სამინისტრო,SpendingAgency,Ministry of Defence
 29 01,შეიარაღებული ძალების მზადყოფნის შენარჩუნება და ამაღლება,Program,Maintained And Improved Preparedness Of Armed Forces
-29 01,შეიარაღებული ძალების საბრძოლო მზადყოფნის შენარჩუნების მხარდაჭერა და შესაძლებლობების განვითარება,Program,Maintained And Improved Preparedness Of Armed Forces And Building of Capacity 
+29 01,შეიარაღებული ძალების საბრძოლო მზადყოფნის შენარჩუნების მხარდაჭერა და შესაძლებლობების განვითარება,Program,Maintained And Improved Preparedness Of Armed Forces And Building of Capacity
 29 02,სამხედრო განათლების განვითარება,Program,Development Of Military Education
 29 02,სამხედრო წვრთნა და განათლება,Program,Military Training And Education
 29 03,საქართველოს თავდაცვის სამინისტროს პერსონალის ჯანმრთელობის დაცვა და სოციალური უზრუნველყოფა,Program,Healthcare and Social Security of Employees of the Ministry of Defense of Georgia
@@ -235,7 +235,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 30 05,სახელმწიფო მატერიალური რეზერვების შექმნა და მართვა,Program,Creation And Management Of Strategic Reserves
 30 06,საარქივო ფონდების დიგიტალიზაცია სამეცნიერო კვლევითი საქმიანობა და მოქალაქეთა მომსახურება,Program,"Digitization Of Archive Funds, Scientific-Research Operation And Citizen Services"
 30 06,"საარქივო ფონდების დიგიტალიზაცია, სამეცნიერო-კვლევითი საქმიანობა და მოქალაქეთა მომსახურება",Program,"Digitalization Of Archive Funds, Scientific-Research Operation And Citizen Services"
-30 06,სამოქალაქო უსაფრთხოების დონის ამაღლება,Program,Civil Security Level Increase 
+30 06,სამოქალაქო უსაფრთხოების დონის ამაღლება,Program,Civil Security Level Increase
 31 00,საქართველოს დაზვერვის სამსახური,SpendingAgency,Intelligence Service Of Georgia
 32 00,საქართველოს განათლებისა და მეცნიერების სამინისტრო,SpendingAgency,The Ministry of Education and Science of Georgia
 32 01,განათლებისა და მეცნიერების სფეროში სახელმწიფო პოლიტიკის შემუშავება და პროგრამების მართვა,Program,National Policymaking And Program Management In Education And Science
@@ -247,7 +247,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 32 02 04,წარმატებულ მოსწავლეთა წახალისება,Program,Stimulation Of Successful Youth
 32 02 05,განსაკუთრებული საჭიროების მქონე ბავშვების საგანმანათლებლო და საცხოვრებელი პირობებით უზრუნველყოფა და ინკლუზიური განათლების განვითარება,Program,Provision Of Education And Living Standards To Children With Special Needs And Development Of Inclusive Education
 32 02 06,მოსწავლეების სახელმძღვანელოებით უზრუნველყოფა,Program,Provision Of Textbooks To School Children
-32 02 06,სიღარიბის ზღვრის ქვემოთ მყოფი მოსწავლეების სახელმძღვანელოებით უზრუნველყოფა,Program,Provision Of Textbooks To School Children Below The Porverty Line 
+32 02 06,სიღარიბის ზღვრის ქვემოთ მყოფი მოსწავლეების სახელმძღვანელოებით უზრუნველყოფა,Program,Provision Of Textbooks To School Children Below The Poverty Line
 32 02 07,ინგლისური ენის გაძლიერება,Program,English Language Teaching
 32 02 07,ინგლისური ენის სწავლების გაძლიერება,Program,English Language Teaching
 32 02 07,საზაფხულო სკოლები,Program,Summer School
@@ -277,10 +277,10 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 32 04 02,გამოცდების ორგანიზება,Program,Organization Of Examinations
 32 04 02 01,სამეცნიერო გრანტების გაცემისა და სამეცნიერო კვლევების ხელშეწყობა,Program,Stimulation Of Scientific Grants And Studies
 32 04 02 02,სამეცნიერო დაწესებულებების პროგრამები,Program,Scientific Institutions
-32 04 02 03,მეცნიერებათა ეროვნული აკადემიის პროგრამების ხელშეწყობა,Program,Promoting The Programs Of National Academy 
+32 04 02 03,მეცნიერებათა ეროვნული აკადემიის პროგრამების ხელშეწყობა,Program,Promoting The Programs Of National Academy
 32 04 02 04,სოფლის მეურნეობის დარგში მეცნიერთა ხელშეწყობა,Program,Promotion Of Scientist in The Agricultural Field
-32 04 02 05,მეცნიერების აღდგენა და განვითარება,Program,Recovery And Development  Of Science 
-32 04 02 05 01,მეცნიერების აღდგენა და განვითარება - საქართველოს განათლებისა და მეცნიერების სამინისტროს განკარგვა,Program,Recovery And Development  Of Science - Ministry of Education and Science Disposal
+32 04 02 05,მეცნიერების აღდგენა და განვითარება,Program,Recovery And Development Of Science
+32 04 02 05 01,მეცნიერების აღდგენა და განვითარება - საქართველოს განათლებისა და მეცნიერების სამინისტროს განკარგვა,Program,Recovery And Development Of Science - Ministry of Education and Science Disposal
 32 04 03,"სახელმწიფო სასწავლო, სამაგისტრო გრანტები და ახალგაზრდების წახალისება",Program,"State Education, Master's Degree Grants And Youth Facilitation"
 32 04 03,მეცნიერებისა და სამეცნიერო კვლევების ხელშეწყობა,Program,Support Of Science And Science Research
 32 04 03,უმაღლესი განათლების ხარისხის განვითარების ხელშეწყობა,Program,Promotion Of Development Of Higher Education Quality
@@ -299,14 +299,14 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 32 04 05,კონსტიტუციონალიზმის კვლევა,Program,Constitutional Studies
 32 05,საგანმანათლებლო დაწესებულებათა ინფრასტრუქტურის განვითარება,Program,Development Of Education Facility Infrastructure
 32 05,მეცნიერებისა და სამეცნიერო კვლევების ხელშეწყობა,Program,Support Of Science And Science Research
-32 05 01,ზოგადსაგანმანათლებლო დაწესებულებებისა და მოსწავლეების ინფორმაციულ საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children 
-32 05 01,საგანმანათლებლო დაწესებულებებისა და მოსწავლეების/სტუდენტების ინფორმაციულ-საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children 
-32 05 01,ზოგადსაგანმანათლებლო დაწესებულებებისა და მოსწავლეების ინფორმაციულ-საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children 
+32 05 01,ზოგადსაგანმანათლებლო დაწესებულებებისა და მოსწავლეების ინფორმაციულ საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children
+32 05 01,საგანმანათლებლო დაწესებულებებისა და მოსწავლეების/სტუდენტების ინფორმაციულ-საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children
+32 05 01,ზოგადსაგანმანათლებლო დაწესებულებებისა და მოსწავლეების ინფორმაციულ-საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children
 32 05 01,საგანმანათლებლო დაწესებულებებისა და მოსწავლეების სტუდენტების ინფორმაციულ საკომუნიკაციო ტექნოლოგიებით უზრუნველყოფა,Program,Provision Of Information And Communication Technologies For General Education Institutions And School Children
 32 05 02,საგანმანათლებლო დაწესებულებათა ინფრასტრუქტურის რეაბილიტაცია,Program,Rehabilitation Of Infrastructure At Educational Institutions
 32 05 02,სამეცნიერო დაწესებულებების პროგრამები,Program,Science Institution Programs
 32 05 02,საგანმანათლებლო და სამეცნიერო დაწესებულებათა ინფრასტრუქტურის განვითარება,Program,Rehabilitation Of Infrastructure At Educational And Scientific Institutions
-32 05 02 01,ზოგადსაგანმანათლებლო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Infrastructure Development Of General educational institutions 
+32 05 02 01,ზოგადსაგანმანათლებლო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Infrastructure Development Of General educational institutions
 32 05 02 03,უმაღლესი და სამეცნიერო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Development Of Higher Scientific Institutions And Infrastructure
 32 05 02 03,უმაღლესი საგანმანათლებლო და სამეცნიერო დაწესებულებების ინფრასტრუქტურის განვითარება,Program,Development Of Higher Scientific Institutions And Infrastructure
 32 05 02 04,სამინისტროს სისტემაში შემავალი საჯარო სამართლის იურიდიული პირებისა და ტერიტორიული ორგანოების  ინფრასტრუქტურის განვითარება,Program,Development Of Infrastructure For Legal Entities And Territorial Authorities Subordinated to the Ministry
@@ -411,7 +411,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 35 03 03 01,ფსიქიკური ჯანმრთელობა,Program,Psychic Healthcare
 35 03 03 05,დედათა და ბავშვთა ჯანმრთელობა,Program,Healthcare Of Mothers And Children
 35 03 03 06,დიაბეტის მართვა,Program,Diabetes Management
-35 03 03 06 02,ინფექციური დაავადებების მართვა საქართველოს შრომის ჯანმრთელობისა და სოციალური დაცვის სამინისტროს ცენტრალური აპარატი,Program,"Management Of Infectious Diseases Central Office Of  Labour, Health and Social Affairs Ministry"
+35 03 03 06 02,ინფექციური დაავადებების მართვა საქართველოს შრომის ჯანმრთელობისა და სოციალური დაცვის სამინისტროს ცენტრალური აპარატი,Program,"Management Of Infectious Diseases Central Office Of Labour, Health and Social Affairs Ministry"
 35 03 03 07,ნარკომანია,Program,Drug Addiction
 35 03 03 07,ნარკომანია,Program,Drug Addiction
 35 03 03 07,"სასწრაფო, გადაუდებელი დახმარება და სამედიცინო ტრანსპორტირება",Program,"Urgent, Emergency Assistance and Medical Transportation"
@@ -427,8 +427,8 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 35 03 03 12,ჯანდაცვის სექტორის განვითარების პროექტი (მსოფლიო ბანკი),Program,Healthcare Sector Development Project (WB)
 35 03 03 13,ყველა ფორმის ტუბერკულოზის ხარისხიან დიაგნოსტიკასა და მკურნალობაზე უნივერსალური ხელმისაწვდომობის პროგრამა,Program,Universal Access To Quality Diagnosis And Treatment Of All Forms Of Tuberculosis Program
 35 03 03 14,სოფლის ექიმი,Program,Village Doctor
-35 03 03 14,"საქართველოში აივ ინფექცია/შიდსის პრევენციის მიზნით არსებული ეროვნული რეაგირების მხარდაჭერა, აივ ინფექცია/შიდსით დაავადებულთა სიცოცხლის მაჩვენებლების გაუმჯობესება მკურნალობისა და მოვლის ღონისძიებების გაძლიერების გზით",Program,"National Response Support For HIV / AIDS Prevention In Georgia, HIV / AIDS treatment And Care Measures Strengthening  To Increase Life Index"
-35 03 03 16,ანტირაბიული დახმარება,Program,Antirabial Service 
+35 03 03 14,"საქართველოში აივ ინფექცია/შიდსის პრევენციის მიზნით არსებული ეროვნული რეაგირების მხარდაჭერა, აივ ინფექცია/შიდსით დაავადებულთა სიცოცხლის მაჩვენებლების გაუმჯობესება მკურნალობისა და მოვლის ღონისძიებების გაძლიერების გზით",Program,"National Response Support For HIV / AIDS Prevention In Georgia, HIV / AIDS treatment And Care Measures Strengthening To Increase Life Index"
+35 03 03 16,ანტირაბიული დახმარება,Program,Antirabial Service
 35 03 03 17,წლამდე ასაკის ბავშვთა გადაუდებელი და სტაციონარული დახმარება,Program,Urgent And Inpatient Care Of Children Below 3
 35 03 03 17,3 წლამდე ასაკის ბავშვთა გადაუდებელი და სტაციონარული დახმარება,Program,Urgent And Inpatient Care Of Children Below 3
 35 03 03 18,ურგენტული მომსახურება,Program,Urgent Care
@@ -470,8 +470,8 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 36 01 01,ენერგეტიკის სფეროში პოლიტიკის გატარება,Program,Policy Making in Energy Field
 36 01 01,ენერგეტიკის სფეროში პოლიტიკის განხორციელება,Program,Policy Making in Energy Field
 36 01 02,მოსახლეობის ელექტროენერგიითა და ბუნებრივი აირით მომარაგების გაუმჯობესება,Program,Electricity and gas supply improvement
-36 01 02,სსიპ ნავთობისა და გაზის სახელმწიფო სააგენტო,Program,LEPL - National Agency of Oil and Gas 
-36 01 02,სსიპ-ნავთობისა და გაზის სახელმწიფო სააგენტო,Program,LEPL- Oil And Gas State Agency
+36 01 02,სსიპ ნავთობისა და გაზის სახელმწიფო სააგენტო,Program,LEPL - National Agency of Oil and Gas
+36 01 02,სსიპ-ნავთობისა და გაზის სახელმწიფო სააგენტო,Program,LEPL - Oil And Gas State Agency
 36 01 03,მოსახლეობის ელექტროენერგიითა და ბუნებრივი აირით მომარაგების გაუმჯობესება ელექტროგადამცემი ხაზებისა და გამანაწილებელი ინფრასტრუქტურის მშენებლობა,SpendingAgency,Improvement of Electricity and Gas Supply Building Transmission Lines and Distribution Of Infrastructure
 36 01 03,ყაზბეგის მუნიციპალიტეტისა და დუშეთის მუნიციპალიტეტის მაღალმთიანი სოფლების მოსახლეობისათვის მიწოდებული ბუნებრივი აირის ღირებულების ანაზღაურების ღონისძიება,Program,Paying for Gas Supplies For Kazbegi Municipality and Dusheti Municipality Mountainous Villages
 36 01 03,"მოსახლეობის ელექტროენერგიითა და ბუნებრივი აირით მომარაგების გაუმჯობესება, ელექტროგადამცემი ხაზებისა და გამანაწილებელი ინფრასტრუქტურის მშენებლობა",Program,"Electricity And Gas Supply Improvement, Building Transmission Lines And Distribution Infrastructure"
@@ -506,7 +506,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 36 04 02,"კვ ქ ს ის ჯვარი და შესაბამისი ხაზების მშენებლობა გერმანიის რეკონსტრუქციის საკრედიტო ბანკი EC, ევროპის რეკონსტრუქციისა და განვითარების ბანკი",Program,"Building Cross and Corresponding Lines German Reconstruction Credit Bank EC, The European Bank For Reconstruction And Development"
 36 04 02,რეგიონალური ელექტროგადაცემის გაუმჯობესების პროექტი (ADB),Program,Regional Power Transmission Project (ADB)
 36 04 02,"500-220კვ ქ/ს-ის ""ჯვარი"" და შესაბამისი ხაზების მშენებლობა (გერმანიის რეკონსტრუქციის საკრედიტო ბანკი, EC, ევროპის რეკონსტრუქციისა და განვითარების ბანკი)",Program,"Building Cross and Corresponding Lines German Reconstruction Credit Bank EC, The European Bank For Reconstruction And Development"
-36 04 03,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა (მსოფლიო ბანკი)",Program,"220 kv Line Building For ""Akhaltsikhe-Batumi"" Line(World Bank)"
+36 04 03,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა (მსოფლიო ბანკი)",Program,"220 kv Line Building For ""Akhaltsikhe-Batumi"" Line (World Bank)"
 36 04 03,კვ ახალციხე ბათუმი ხაზის მშენებლობა მსოფლიო ბანკი,Program,Akhaltsikhe - Batumi Road Line Building World Bank
 36 04 04,"შავი ზღვის ელექტროგადამცემი ქსელის პროექტი (გერმანიის რეკონსტრუქციის საკრედიტო ბანკი, ევროპის საინვესტიციო ბანკი, ევროპის რეკონსტრუქციისა და განვითარების ბანკი)",Program,"Black Sea Transmission Network Project (German Reconstruction Credit Bank, the European Investment Bank, European Bank for Reconstruction and Development)"
 36 04 04,შავი ზღვის ელექტროგადამცემი ქსელის პროექტი გერმანიის რეკონსტრუქციის საკრედიტო ბანკი ევროპის საინვესტიციო ბანკი ევროპის რეკონსტრუქციისა და განვითარების ბანკი,Program,"Black Sea Transmission Network Project (German Reconstruction Credit Bank, the European Investment Bank, European Bank for Reconstruction and Development)"
@@ -525,10 +525,10 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 37 01 04,ქართული აგროსასურსათო პროდუქციის პოპულარიზაცია,Program,Promotion Of Georgian Agriculture Produce
 37 01 04,სამელიორაციო სისტემების მოდერნიზაცია,Program,Modernization Of Melioration Systems
 37 01 04,სამელიორაციო სისტემების მოდერნიზაცია,Program,Modernization Of Melioration Systems
-37 01 05,სასოფლო-სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of  Agricultural Cooperatives
-37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of  Agricultural Cooperatives
+37 01 05,სასოფლო-სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of Agricultural Cooperatives
+37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of Agricultural Cooperatives
 37 01 05,"ქართული აგროსასურსათო პროდუქციის, ღვინისა და სამზარეულოს პოპულარიზაცია",Program,"Promotion Of Georgian Agriculture Produce, Wine And Cuisine"
-37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of  Agricultural Cooperatives
+37 01 05,სასოფლო სამეურნეო კოოპერატივების ხელშეწყობის ღონისძიებები,Program,Promotion Events Of Agricultural Cooperatives
 37 01 05,ქართული აგროსასურსათო პროდუქციის ღვინისა და სამზარეულოს პოპულარიზაცია,Program,"Promotion Of Georgian Agriculture Produce, Wine And Cuisine"
 37 01 06,სოფლის მეურნეობის დარგში სამეცნიერო კვლევითი ღონისძიებების განხორციელება,Program,Scientific Research Activities In The Field Of Agriculture
 37 01 06,თანამედროვე ტექნოლოგიების პოპულარიზაცია,Program,Promotion Of Modern Technologies
@@ -549,7 +549,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 37 01 10,აგროდაზღვევის უზრუნველყოფის ღონისძიებები,Program,Measures For Agricultural Insurance
 37 01 11,მანდარინის (არასტანდარტულის) მოსავლის რეალიზაციის ხელშეწყობის ღონისძიებები,Program,Tangerine (Non-Standard) Crop Realization Measures
 37 01 12,აგროსექტორის ხელშეწყობა/განვითარება,Program,Agricultural promotion / development
-37 01 12,სოფლის მეურნეობის პროდუქციის გადამამუშავებელი საწარმოების თანადაფინანსება,Program,Funding of The Agricultural Products Processing Enterprises 
+37 01 12,სოფლის მეურნეობის პროდუქციის გადამამუშავებელი საწარმოების თანადაფინანსება,Program,Funding of The Agricultural Products Processing Enterprises
 37 01 12,აგროსექტორის ხელშეწყობა/განვითარება,Program,Promotion / Development Of Agricultural Sector
 37 01 13,ქართული ჩაი,Program,Georgian Tea
 37 01 14,აგროსექტორის ხელშეწყობა/განვითარება,Program,Promotion / Development Of Agricultural Sector
@@ -568,7 +568,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 38 00,საქართველოს გარემოს დაცვის სამინისტრო,SpendingAgency,Ministry Of Environment
 38 01,გარემოს დაცვის სფეროში პოლიტიკის შემუშავება რეგულირება და მართვა,Program,"Policy Making, Regulation And Management In Protection Of Environment"
 38 01,"გარემოს დაცვის სფეროში პოლიტიკის შემუშავება, რეგულირება და მართვა",Program,"Policy Making, Regulation And Management In Protection Of Environment"
-38 02,დაცული ტერიტორიების სისტემის ჩამოყალიბება და მართვა,Program,Establishment And Management Of Protected Areas 
+38 02,დაცული ტერიტორიების სისტემის ჩამოყალიბება და მართვა,Program,Establishment And Management Of Protected Areas
 38 02,გარემოსდაცვითი ზედამხედველობა,Program,Environmental Supervision
 38 03,გარემოს დაცვის სფეროში მონიტორინგი პროგნოზირება და პრევენცია,Program,"Monitoring, Projections And Prevention In The Environment"
 38 03,დაცული ტერიტორიების სისტემის ჩამოყალიბება და მართვა,Program,Formation and Management Of Protected Area System
@@ -601,10 +601,10 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 42 00,სსიპ – საზოგადოებრივი მაუწყებელი,SpendingAgency,LEPL – Public Broadcaster
 42 00,სსიპ - საზოგადოებრივი მაუწყებელი,SpendingAgency,LEPL – Public Broadcaster
 42 01,მაუწყებლობის ხელშეწყობა,Program,Promotion Of Broadcasting
-43 00,სსიპ – კონკურენციისა და სახელმწიფო შესყიდვების სააგენტო,SpendingAgency,LEPL – Competition And Public Procurement Agency 
+43 00,სსიპ – კონკურენციისა და სახელმწიფო შესყიდვების სააგენტო,SpendingAgency,LEPL – Competition And Public Procurement Agency
 43 00,სსიპ - კონკურენციის სააგენტო,SpendingAgency,LEPL – Competition Agency
-43 01,სსიპ კონკურენციისა და სახელმწიფო შესყიდვების სააგენტო,Program,LEPL – Competition And Public Procurement Agency 
-43 01,სსიპ - კონკურენციისა და სახელმწიფო შესყიდვების სააგენტო,Program,LEPL – Competition And Public Procurement Agency 
+43 01,სსიპ კონკურენციისა და სახელმწიფო შესყიდვების სააგენტო,Program,LEPL – Competition And Public Procurement Agency
+43 01,სსიპ - კონკურენციისა და სახელმწიფო შესყიდვების სააგენტო,Program,LEPL – Competition And Public Procurement Agency
 43 02,სახელმწიფო სექტორის ფინანსური მართვის მხარდაჭერის პროექტი (WB–SIDA–ნიდერლანდი– DFID),Program,Public Sector Financial Management Support Project (WB-SIDA- Netherlands-DFID)
 43 02,სახელმწიფო სექტორის ფინანსური მართვის მხარდაჭერის პროექტი (WB-SIDA-ნიდერლანდი- DFID),Program,Public Sector Financial Management Support Project (WB-SIDA- Netherlands-DFID)
 43 02,სახელმწიფო სექტორის ფინანსური მართვის მხარდაჭერის პროექტი (WB-SIDA-ნიდერლანდი-DFID),Program,Public Sector Financial Management Support Project (WB-SIDA- Netherlands-DFID)
@@ -618,16 +618,16 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 45 02,საქართველოს საპატრიარქოს წმინდა სიმონ კანანელის სახელობის სასულიერო სწავლების ცენტრისათვის გადასაცემი გრანტი,Program,Grant For Theological Teaching Centre of St. Svimon Kananeli Church
 45 02,ა ა იპ საქართველოს საპატრიარქოს წმიდა სვიმონ კანანელის სახელობის სასულიერო სწავლების ცენტრი,Program,Grant For NNLP Theological Teaching Centre of St. Svimon Kananeli Church
 45 02,ა(ა)იპ – საქართველოს საპატრიარქოს წმიდა სვიმონ კანანელის სახელობის სასულიერო სწავლების ცენტრი,Program,Grant For NNLP Theological Teaching Centre of St. Svimon Kananeli Church
-45 03,ა ა იპ – ბათუმისა და ლაზეთის ეპარქიის საგანმანათლებლო ცენტრისათვის გადასაცემი გრანტი,Program,NNLP - Grant For Educational Centre for Diocese of Batumi And Lazeti 
-45 03,ა ა იპ - ბათუმისა და ლაზეთის ეპარქიის საგანმანათლებლო ცენტრისათვის გადასაცემი გრანტი,Program,NNLP - Grant For Educational Centre for Diocese of Batumi And Lazeti 
-45 03,ა(ა)იპ - ბათუმისა და ლაზეთის ეპარქიის საგანმანათლებლო ცენტრისათვის გადასაცემი გრანტი,Program,NNLP - Grant For Educational Centre for Diocese of Batumi And Lazeti 
+45 03,ა ა იპ – ბათუმისა და ლაზეთის ეპარქიის საგანმანათლებლო ცენტრისათვის გადასაცემი გრანტი,Program,NNLP - Grant For Educational Centre for Diocese of Batumi And Lazeti
+45 03,ა ა იპ - ბათუმისა და ლაზეთის ეპარქიის საგანმანათლებლო ცენტრისათვის გადასაცემი გრანტი,Program,NNLP - Grant For Educational Centre for Diocese of Batumi And Lazeti
+45 03,ა(ა)იპ - ბათუმისა და ლაზეთის ეპარქიის საგანმანათლებლო ცენტრისათვის გადასაცემი გრანტი,Program,NNLP - Grant For Educational Centre for Diocese of Batumi And Lazeti
 45 04,"საქართველოს საპატრიარქოს წმიდა ნინოს სახელობის ობოლ, უპატრონო და მზრუნველობამოკლებულ ბავშვთა პანსიონატისათვის გადასაცემი გრანტი",Program,"Grant For St. Nino's Orphaned, Abandoned And Homeless Children's Boarding House"
 45 04,საქართველოს საპატრიარქოს წმიდა ნინოს სახელობის ობოლ უპატრონო და მზრუნველობამოკლებულ ბავშვთა პანსიონატისათვის გადასაცემი გრანტი,Program,"Grant For St. Nino's Orphaned, Abandoned And Homeless Children's Boarding House"
 45 05,საქართველოს საპატრიარქოს ბათუმის წმინდა მოწამე ეკატერინეს სახელობის სათნოების სავანისათვის გადასაცემი გრანტი,Program,Grant For Patriarchate of Georgia Batumi Saint Catherine's Monastery
 45 05,საქართველოს საპატრიარქოს ბათუმის წმიდა მოწამე ეკატერინეს სახელობის სათნოების სავანისათვის გადასაცემი გრანტი,Program,Grant For Patriarchate of Georgia Batumi Saint Catherine's Monastery
 45 06,საქართველოს საპატრიარქოს წმინდა ანდრია პირველწოდებულის სახელობის სასულიერო სწავლების ცენტრისათვის გადასაცემი გრანტი,Program,Grant for St. Andrew First-Called Theological Training Centre
 45 06,საქართველოს საპატრიარქოს წმიდა ანდრია პირველწოდებულის სახელობის სასულიერო სწავლების ცენტრისათვის გადასაცემი გრანტი,Program,Grant for St. Andrew First-Called Theological Training Centre
-45 07,წმინდა გიორგი მთაწმინდელის მონასტერთან არსებული სარეაბილიტაციო ცენტრისათვის გადასაცემი გრანტი,Program,Grant for Rehabilitation Centre existing In  St. George Monastery
+45 07,წმინდა გიორგი მთაწმინდელის მონასტერთან არსებული სარეაბილიტაციო ცენტრისათვის გადასაცემი გრანტი,Program,Grant for Rehabilitation Centre existing In St. George Monastery
 45 08,საქართველოს საპატრიარქოს წმინდა ანდრია პირველწოდებულის სახელობის ქართული უნივერსიტეტისათვის გადასაცემი გრანტი,Program,Grant for St. Andrew First-Called Georgian University
 45 08,საქართველოს საპატრიარქოს წმიდა ანდრია პირველწოდებულის სახელობის ქართული უნივერსიტეტისათვის გადასაცემი გრანტი,Program,Grant for St. Andrew First-Called Georgian University
 45 09,საქართველოს საპატრიარქოს ა ა იპ – ტბელ აბუსერისძის სახელობის უნივერსიტეტისათვის გადასაცემი გრანტი,Program,Grant for Georgian Patriarchate NNLP Tbel Abuseridze University
@@ -653,7 +653,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 46 00,სსიპ - ლევან სამხარაულის სახელობის სასამართლო ექსპერტიზის ეროვნული ბიურო,SpendingAgency,LEPL – National Forensics Bureau Named After Levan Samkharauli
 47 00,სსიპ – საქართველოს სტატისტიკის ეროვნული სამსახური – საქსტატი,Spending Agency,LEPL - National Statistic Office of Georgia - Geostat
 47 00,სსიპ - საქართველოს სტატისტიკის ეროვნული სამსახური - საქსტატი,SpendingAgency,LEPL - National Statistic Office of Georgia - Geostat
-47 01,სტატისტიკური სამუშაოების დაგეგმვა და მართვა,Program,Planning And Management Of Statistics 
+47 01,სტატისტიკური სამუშაოების დაგეგმვა და მართვა,Program,Planning And Management Of Statistics
 47 02,სტატისტიკური სამუშაოების სახელმწიფო პროგრამა,Program,State Program Of Statistics
 47 03,მოსახლეობისა და საცხოვრისების საყოველთაო აღწერა,Program,General Census And Household Studies
 47 04,შინამეურნეობების ინტეგრირებული კვლევის პროგრამა,Program,Integrated Household Survey Program
@@ -671,14 +671,14 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 49 00,საერთო სახელმწიფოებრივი მნიშვნელობის გადასახდელები,SpendingAgency,General State Importance Expenditures
 49 00,სსიპ − საქართველოს ეროვნული საინვესტიციო სააგენტო,SpendingAgency,LEPL - Georgian National Investment Agency
 49 01,საგარეო სახელმწიფო ვალდებულებების მომსახურება და დაფარვა,Program,Service And Repayment Of Foreign Debt
-49 01,საინვესტიციო პოლიტიკის დაგეგმვა და მართვა,Program,Management And Planning Of Investment Policy  
+49 01,საინვესტიციო პოლიტიკის დაგეგმვა და მართვა,Program,Management And Planning Of Investment Policy
 49 03,საერთაშორისო ორგანიზაციებში საქართველოს მონაწილეობიდან გამომდინარე არსებული ვალდებულებები,Program,Existing Obligations Based On Georgia's Participation in International Organizations
 49 04,ავტონომიური რესპუბლიკებისა და ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers to Autonomous Republics and Local Self- Government Entities
 49 04 01,ავტონომიური რესპუბლიკებისათვის გადასაცემი ტრანსფერები,Program,Transfers for Autonomous Republics
-49 04 01 01,აფხაზეთის ავტონომიური რესპუბლიკისათვის გადასაცემი ტრანსფერი,Program,Transfer for Autonomous Republic Of Abkhazia 
+49 04 01 01,აფხაზეთის ავტონომიური რესპუბლიკისათვის გადასაცემი ტრანსფერი,Program,Transfer for Autonomous Republic Of Abkhazia
 49 04 01 02,აჭარის ავტონომიური რესპუბლიკისათვის გადასაცემი ტრანსფერი,Program,Transfer for Autonomous Republic of Adjara
-49 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers to Local Self-Government Agencies 
-49 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers to Local Self-Government Agencies 
+49 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers to Local Self-Government Agencies
+49 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers to Local Self-Government Agencies
 49 09,სოფლის მხარდაჭერის პროგრამა,Program,Rural Support Program
 49 11,ორგანიზაციების წინა წლებში წარმოქმნილი საგადასახადო დავალიანებების დაფარვა,Program,Cover The Tax Indebtedness Accrued In Previous Years
 49 12,სახელმწიფო მმართველობის ორგანოების ეფექტიანად ფუნქციონირების ხელშეწყობა,Program,Assist Effective Functioning Of The State Administration Bodies
@@ -695,9 +695,9 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 49 14 09,რუსთავის მყარი ნარჩენების პროექტი (EBRD),Program,Rustavi Solid Waste Project (EBRD)
 49 14 12,ათასწლეულის გამოწვევა საქართველოს მეორე პროექტი (MCC),Program,Second Project of Millennium Challenge Georgia (MCC)
 50 00,სსიპ - საჯარო სამსახურის ბიურო,SpendingAgency,LEPL - Civil Service Bureau
-50 00,დასაქმების საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office of the State Minister of Georgia for Employment 
+50 00,დასაქმების საკითხებში საქართველოს სახელმწიფო მინისტრის აპარატი,SpendingAgency,Office of the State Minister of Georgia for Employment
 50 00,სსიპ საჯარო სამსახურის ბიურო,SpendingAgency,LEPL Civil Service Bureau
-50 00,სსიპ − საჯარო სამსახურის ბიურო,SpendingAgency,LEPL- Civil Service Bureau
+50 00,სსიპ − საჯარო სამსახურის ბიურო,SpendingAgency,LEPL - Civil Service Bureau
 51 00,სსიპ საქართველოს ეროვნული საინვესტიციო სააგენტო,SpendingAgency,LEPL Georgian National Investment Agency
 51 00,პერსონალურ მონაცემთა დაცვის ინსპექტორის აპარატი,SpendingAgency,Office Of The Personal Data Protection Inspector
 51 07,წინა წლებში წარმოქმნილი დავალიანებების დაფარვისა და სასამართლო გადაწყვეტილებების აღსრულების ფონდი,Program,Coverage Of The Arrears Accrued In Previous Years And Execution Of Court Decisions
@@ -726,7 +726,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 53 05,საქართველოს პრეზიდენტის სარეზერვო ფონდი,Program,Presidential Reserve Fund
 53 05,საქართველოს პრეზიდენტის სარეზერვო ფონდი,Program,Presidential Reserve Fund
 53 09,სოფლის მხარდაჭერის პროგრამა,Program,Village Support Program
-53 10,საქართველოს სახელმწიფო ჯილდოებისათვის დაწესებული ერთდროული ფულადი პრემიების გაცემის ფინანსური უზრუნველყოფა,Program,Financial Support Of Monetary State Rewards 
+53 10,საქართველოს სახელმწიფო ჯილდოებისათვის დაწესებული ერთდროული ფულადი პრემიების გაცემის ფინანსური უზრუნველყოფა,Program,Financial Support Of Monetary State Rewards
 53 11,დონორების მიერ დაფინანსებული საერთო სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
 53 11,დონორების მიერ დაფინანსებული საერთო სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
 53 11 01,ორმხრივი რეგიონალური და რეგიონთაშორისი პროექტები გერმანიის საერთაშორისო თანამშრომლობის საზოგადოება,Program,Bilateral Regional And Inter-Regional Projects German Society For International Cooperation
@@ -749,12 +749,12 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 55 00,სსიპ - რელიგიის საკითხთა სახელმწიფო სააგენტო,SpendingAgency,LEPL - State Agency For Religious Issues
 56 00,სსიპ - საქართველოს ფინანსური მონიტორინგის სამსახური,SpendingAgency,LEPL Financial Monitoring Service of Georgia
 57 00,ა(ა)იპ - საქართველოს სოლიდარობის ფონდი,SpendingAgency,NNLP Solidarity Fund of Georgia
-58 00,სსიპ -განათლების საერთაშორისო ცენტრი,SpendingAgency,LEPL- International Center Of Education
+58 00,სსიპ -განათლების საერთაშორისო ცენტრი,SpendingAgency,LEPL - International Center Of Education
 58 00,სსიპ – განათლების საერთაშორისო ცენტრი,SpendingAgency,LEPL - International Center Of Education
 58 02,საშინაო სახელმწიფო ვალდებულებების მომსახურება და დაფარვა,Program,Domestic Obligations service and repayments
-58 04,ავტონომიური რესპუბლიკებისა და თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Autonomous Republics And Local Self-Government Entities 
+58 04,ავტონომიური რესპუბლიკებისა და თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Autonomous Republics And Local Self-Government Entities
 58 04 01,ავტონომიური რესპუბლიკებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Autonomous Republics
-58 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Local Self-Government Entities 
+58 04 02,ადგილობრივი თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Local Self-Government Entities
 58 04 02,თვითმმართველი ერთეულებისათვის გადასაცემი ტრანსფერები,Program,Transfers For Self-Government Entities
 58 05,საქართველოს პრეზიდენტის სარეზერვო ფონდი,Program,Presidential Reserve Fund
 58 06,საქართველოს მთავრობის სარეზერვო ფონდი,Program,The Government's Reserve Fund
@@ -767,8 +767,8 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 58 10,დონორების მიერ დაფინანსებული საერთო სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
 58 10,დონორების მიერ დაფინანსებული საერთო-სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
 58 10 01,"ორმხრივი, რეგიონალური და რეგიონთაშორისი პროექტები (GIZ)",Program,Bilateral Regional And Inter-Regional Projects (GIZ)
-58 10 02,KfW-ის ადგილობრივი ოფისის საოპერაციო ხარჯების თანადაფინანსება (KfW),Program,Co-Funding Of Operation Costs For KfW's Local Office(KfW)
-58 10 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (EU, KfW)",Program,"Rehabilitation of Communal Infrastructure Institutions  in Batumi (III Phase) (EU, KfW)"
+58 10 02,KfW-ის ადგილობრივი ოფისის საოპერაციო ხარჯების თანადაფინანსება (KfW),Program,Co-Funding Of Operation Costs For KfW's Local Office (KfW)
+58 10 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (EU, KfW)",Program,"Rehabilitation of Communal Infrastructure Institutions in Batumi (III Phase) (EU, KfW)"
 58 10 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (KfW, EU)",Program,"Rehabilitation Of Communal Infrastructure (III phase) (KfW, EU)"
 58 10 05,განახლებადი ენერგიის პროგრამა II (KfW),Program,Renewable Energy Program II (KfW)
 58 10 06,ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (II ფაზა) (KfW),Program,Rehabilitation Of Communal Infrastructure (II phase) (KfW)
@@ -777,7 +777,7 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 60 00,სახელმწიფო უსაფრთხოების სამსახური,SpendingAgency,State Security Service
 60 00,საქართველოს სახელმწიფო უსაფრთხოების სამსახური,SpendingAgency,State Security Service Of Georgia
 60 00,ა(ა)იპ – რიჩარდ გ. ლუგარის საზოგადოებრივი ჯანმრთელობის კვლევითი ცენტრი,SpendingAgency,NNLP – Richard G Lugar Public Health Research Centre
-61 00,სსიპ - სახელმწიფო ენის დეპარტამენტი,SpendingAgency,LEPL State Language Department 
+61 00,სსიპ - სახელმწიფო ენის დეპარტამენტი,SpendingAgency,LEPL State Language Department
 62 00,საერთო-სახელმწიფოებრივი მნიშვნელობის გადასახდელები,SpendingAgency,General State Importance Expenditures
 62 01,საგარეო სახელმწიფო ვალდებულებების მომსახურება და დაფარვა,Program,Service And Repayment Of Foreign Debt
 62 03,საერთაშორისო საფინანსო ორგანიზაციებთან თანამშრომლობიდან გამომდინარე ვალდებულებები,Program,Liabilities Of Georgian Side For Existing Agreements With International Financial Organizations
@@ -788,9 +788,9 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 62 11,საერთაშორისო ორგანიზაციებთან არსებული ხელშეკრულებების ფარგლებში ქართული მხარის მიერ ნაკისრი ვალდებულებების დაფარვა,Program,Liabilities Of Georgian Side For Existing Agreements At International Organizations
 62 12,დონორების მიერ დაფინანსებული საერთო- სახელმწიფოებრივი გადასახდელები,Program,General State Payments Financed By Donors
 62 12 04,"ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (III ფაზა) (EU, KfW)",Program,"Rehabilitation Of Communal Infrastructure In Batumi (III phase) (EU,KfW)"
-62 12 07,ხელვაჩაურის მუნიციპალიტეტის კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (KfW),Program,Rehabilitation of Khelvachauri Municipality Communal Infrastructure Facilities 
+62 12 07,ხელვაჩაურის მუნიციპალიტეტის კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია (KfW),Program,Rehabilitation of Khelvachauri Municipality Communal Infrastructure Facilities
 62 12 09,KfW - ბათუმში კომუნალური ინფრასტრუქტურის დაწესებულებათა რეაბილიტაცია - IV ფაზა (KfW),Program,KfW - Rehabilitation Of Communal Infrastructure (IV phase) (KfW)
-63 00,სსიპ – სახელმწიფო შესყიდვების სააგენტო,SpendingAgency,Public Procurement Agency 
+63 00,სსიპ – სახელმწიფო შესყიდვების სააგენტო,SpendingAgency,LEPL - Public Procurement Agency
 64 00,სსიპ - საქართველოს ინტელექტუალური საკუთრების ეროვნული ცენტრი - „საქპატენტი“,SpendingAgency,"LEPL - National Intellectual Property Center - ""Sakpatenti"""
 ,საერთაშორისო ურთიერთობები და ევროატლანტიკურ სივრცეში ინტეგრაცია,Priority,International Relations and Euro-Atlantic Integration
 ,სოფლის მეურნეობა,Priority,Agriculture
@@ -807,48 +807,48 @@ Budget Item Code,Georgian Name,Budget Item Type,English Translation
 ,"კულტურა, რელიგია, ახალგაზრდობის ხელშეწყობა და სპორტი",Priority,"Culture, Religion, Youth and Sport"
 35 02 04,სოციალური შეღავათები მაღალმთიან დასახლებაში,Program,Social Benefits for High Terrain Settlements
 62 12 10,თბილისის ავტობუსების პროექტი (EBRD),Program,Tbilisi Bus Project (EBRD)
-26 12,სსიპ - საჯარო რეესტრის ეროვნული სააგენტოს მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,
-29 01,თავდაცვის მართვა და შესაძლებლობები,Program,
-29 02,წვრთნა და სამხედრო განათლება,Program,
-29 03,ჯანმრთელობის დაცვა და სოციალური უზრუნველყოფა,Program,
-29 06,საერთაშორისო ოპერაციები,Program,
-29 07,სამხედრო მრეწველობის განვითარება,Program,
-30 03,"სამართალდამცავი სტრუქტურებისათვის მაღალკვალიციფიური კადრების მომზადება, გადამზადება, საარქივო ფონდების დიგიტალიზაცია, სამეცნიერო-კვლევითი საქმიანობა და მოქალაქეთა მომსახურება",Program,
-32 02 05,განსაკუთრებით ნიჭიერ მოსწავლეთა საგანმანათლებლო და საცხოვრებელი პირობებით უზრუნველყოფა,Program,
-32 02 09,ბრალდებული და მსჯავრდებული პირებისათვის ზოგადი განათლების მიღების ხელმისაწვდომობა,Program,
-32 02 13,სკოლების საგრანტო დაფინანსება,Program,
-32 02 14,ელექტრონული სწავლება (e Learning),Program,
-32 02 15,ერთიან საგანმანათლებლო ქსელში ჩართული დაწესებულებების ინტერნეტ კავშირით უზრუნველყოფა,Program,
-32 03 02,ბრალდებული და მსჯავრდებული პირებისათვის და ყოფილი პატიმრებისათვის პროფესიული განათლების მიღების ხელმისაწვდომობა,Program,
-32 04 04,სსიპ - განათლების საერთაშორისო ცენტრი,Program,
-32 06,ინკლუზიური განათლება,Program,
-32 07 02 05,საჯარო სკოლების ოპერირებისა და მოვლა-პატრონობის სისტემის განვითარება,Program,
-32 09,"თბილისის საჯარო სკოლების რეაბილიტაცია და ენერგო ეფექტურობის გაზრდის პროექტი (CEB, E5P)",Program,
-32 10,"საქართველოს ტექნიკური უნივერსიტეტის სტრუქტურაში, ჰიდროტექნიკური კვლევების ლაბორატორიის ჩამოყალიბების პროექტი (Unicredit Bank)",Program,
-36 01 01 02,სსიპ - ნავთობისა და გაზის სახელმწიფო სააგენტო,Program,
-36 01 01 03,საქართველოს ელექტროენერგეტიკის ბაზრის ახალი კონცეფციის შემუშავება (EBRD),Program,
-36 03 01,რეგიონალური ელექტროგადაცემის გაუმჯობესების პროექტი,Program,
-36 03 02,საქართველოს ელექტროგადამცემი ქსელის გაფართოების ღია პროგრამა,Program,
-36 03 02 01,"500 კვ ეგხ-ის მშენებლობა ქსანი-სტეფანწმინდა (EBRD, EC, KfW)",Program,
-36 03 02 02,"ჯვარი ხორგა ელექტროგადამცემი ხაზი (EBRD, EC, KfW)",Program,
-36 03 03,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა",Program,
-36 03 03 01,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა (WB)",Program,
-36 03 03 02,საქართველოს ელექტროენერგეტიკული სექტორის განვითარების შეფასება (WB),Program,
-36 03 04,"ჩრდილოეთის რგოლი ეგხ (I ფაზა) (EBRD, KfW)",Program,
-36 03 06,გურიის ელგადაცემის ხაზების ინფრასტრუქტურის გაძლიერება (KfW),Program,
-37 05,ერთიანი აგროპროექტი,Program,
-37 07,სამელიორაციო სისტემების მოდერნიზაცია და აგროსექტორის განვითარების ხელშეწყობა,Program,
-37 07 01,სამელიორაციო სისტემების რეაბილიტაცია და ტექნიკის შეძენა,Program,
-37 07 02,სამელიორაციო ინფრასტრუქტურის მიმდინარე ტექნიკური ექსპლუატაცია,Program,
-37 07 03,ირიგაციისა და დრენაჟის სისტემების გაუმჯობესება (WB),Program,
-37 07 04,"სოფლის მეურნეობის მოდერნიზაციის, ბაზარზე წვდომისა და მდგრადობის პროექტი (GEF, IFAD)",Program,
-38 05,ეროვნული საშენი მეურნეობის სისტემის ჩამოყალიბება და მართვა,Program,
-23 06,"ბუღალტრული აღრიცხვის, ანგარიშგებისა და აუდიტის ზედამხედველობა",Program,
-24 09,"საქართველოს მიერ საერთაშორისო ხელშეკრულებებით ნაკისრი ვალდებულებების ფარგლებში საქართველოს აეროპორტებში „გათავისუფლებული ფრენების"" მომსახურების ხარჯების ანაზღაურება (მათ შორის, წინა წლებში წარმოქმნილი დავალიანებების დაფარვა",Program,
-24 12,საზღვაო პროფესიული განათლების ხელშეწყობა,Program,
-25 05,მყარი ნარჩენების მართვის პროგრამა,Program,
-26 06,ერთიანი სახელმწიფო საინფორმაციო ტექნოლოგიების განვითარება,Program,
-26 07,დანაშაულის პრევენცია და ყოფილ პატიმართა რესოციალიზაცია,Program,
-58 00,სსიპ - საქართველოს მეცნიერებათა ეროვნული აკადემია,SpendingAgency,
-60 13,ფიზიკურ პირებზე უცხოურ ვალუტაში გაცემული საბანკო სესხების ეროვნულ ვალუტაში კონვერტირების ხელშეწყობის ღონისძიებები,Program,
-63 00,სსიპ - ტექნოლოგიური ინსტიტუტი,SpendingAgency,
+26 12,სსიპ - საჯარო რეესტრის ეროვნული სააგენტოს მომსახურებათა განვითარება და ხელმისაწვდომობა,Program,LEPL - Development And Availability Of Services Of National Agency of Public Registry
+29 01,თავდაცვის მართვა და შესაძლებლობები,Program,Management of Defence and Capabilities
+29 02,წვრთნა და სამხედრო განათლება,Program,Military Training And Education
+29 03,ჯანმრთელობის დაცვა და სოციალური უზრუნველყოფა,Program,Healthcare and Social Security
+29 06,საერთაშორისო ოპერაციები,Program,International Operations
+29 07,სამხედრო მრეწველობის განვითარება,Program,Military Industrialization
+30 03,"სამართალდამცავი სტრუქტურებისათვის მაღალკვალიციფიური კადრების მომზადება, გადამზადება, საარქივო ფონდების დიგიტალიზაცია, სამეცნიერო-კვლევითი საქმიანობა და მოქალაქეთა მომსახურება",Program,"Training And Retraining Of Highly Qualified Staff For Law Enforcement Bodies, Digitalization Of Archival Funds, Scientific Research And Citizen Services"
+32 02 05,განსაკუთრებით ნიჭიერ მოსწავლეთა საგანმანათლებლო და საცხოვრებელი პირობებით უზრუნველყოფა,Program,Educational And Housing Solutions Of Particularly Talented Youth
+32 02 09,ბრალდებული და მსჯავრდებული პირებისათვის ზოგადი განათლების მიღების ხელმისაწვდომობა,Program,Accessibility To Education For Accused And Convicted
+32 02 13,სკოლების საგრანტო დაფინანსება,Program,Grant Funding for Schools
+32 02 14,ელექტრონული სწავლება (e Learning),Program,E-Learning
+32 02 15,ერთიან საგანმანათლებლო ქსელში ჩართული დაწესებულებების ინტერნეტ კავშირით უზრუნველყოფა,Program,Provide Internet Connectivity For General Educational Institutions
+32 03 02,ბრალდებული და მსჯავრდებული პირებისათვის და ყოფილი პატიმრებისათვის პროფესიული განათლების მიღების ხელმისაწვდომობა,Program,"Accessibility To Vocational Education For Accused, Convicted And Former Prisoners"
+32 04 04,სსიპ - განათლების საერთაშორისო ცენტრი,Program,LEPL - International Center Of Education
+32 06,ინკლუზიური განათლება,Program,Inclusive Education
+32 07 02 05,საჯარო სკოლების ოპერირებისა და მოვლა-პატრონობის სისტემის განვითარება,Program,Development Of Public School Operation And Maintenance System
+32 09,"თბილისის საჯარო სკოლების რეაბილიტაცია და ენერგო ეფექტურობის გაზრდის პროექტი (CEB, E5P)",Program,"Tbilisi Public School Rehabilitation And Energy Efficiency Increase Project (CEB, E5P)"
+32 10,"საქართველოს ტექნიკური უნივერსიტეტის სტრუქტურაში, ჰიდროტექნიკური კვლევების ლაბორატორიის ჩამოყალიბების პროექტი (Unicredit Bank)",Program,Project of Creating Hydraulic Research Laboratory in Georgian Technical University Structure
+36 01 01 02,სსიპ - ნავთობისა და გაზის სახელმწიფო სააგენტო,Program,LEPL - Oil And Gas State Agency
+36 01 01 03,საქართველოს ელექტროენერგეტიკის ბაზრის ახალი კონცეფციის შემუშავება (EBRD),Program,Creating A New Concept of Georgia's Electric Engergy Market
+36 03 01,რეგიონალური ელექტროგადაცემის გაუმჯობესების პროექტი,Program,Regional Power Transmission Project
+36 03 02,საქართველოს ელექტროგადამცემი ქსელის გაფართოების ღია პროგრამა,Program,Open program for Georgia's Transmission Network Expansion
+36 03 02 01,"500 კვ ეგხ-ის მშენებლობა ქსანი-სტეფანწმინდა (EBRD, EC, KfW)",Program,"500 kV OHL construction Ksani-Stephantsminda (EBRD, EC, KfW)"
+36 03 02 02,"ჯვარი ხორგა ელექტროგადამცემი ხაზი (EBRD, EC, KfW)",Program,"Cross Khorga transmission line (EBRD, EC, KfW)"
+36 03 03,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა",Program,"220 kv Line Building For ""Akhaltsikhe-Batumi"" Line"
+36 03 03 01,"220კვ ""ახალციხე-ბათუმი"" ხაზის მშენებლობა (WB)",Program,"220 kv Line Building For ""Akhaltsikhe-Batumi"" Line (WB)"
+36 03 03 02,საქართველოს ელექტროენერგეტიკული სექტორის განვითარების შეფასება (WB),Program,Evaluation Of Georgia's Electric Energy Development (WB)
+36 03 04,"ჩრდილოეთის რგოლი ეგხ (I ფაზა) (EBRD, KfW)",Program,"Northern Circle OHL (I phase) (EBRD, KfW)"
+36 03 06,გურიის ელგადაცემის ხაზების ინფრასტრუქტურის გაძლიერება (KfW),Program,Strengthening Electronic Transmission Line Infrastructure in Guria (KfW)
+37 05,ერთიანი აგროპროექტი,Program,The United Agroproject
+37 07,სამელიორაციო სისტემების მოდერნიზაცია და აგროსექტორის განვითარების ხელშეწყობა,Program,Modernization Of Melioration Systems And Promoting Agricultural Development
+37 07 01,სამელიორაციო სისტემების რეაბილიტაცია და ტექნიკის შეძენა,Program,Rehabilitation of Melioration Systems and Purchasing The Equipment
+37 07 02,სამელიორაციო ინფრასტრუქტურის მიმდინარე ტექნიკური ექსპლუატაცია,Program,The Technical Exploitation of Melioration Systems
+37 07 03,ირიგაციისა და დრენაჟის სისტემების გაუმჯობესება (WB),Program,Improvement Of Irrigation and drainage systems (WB)
+37 07 04,"სოფლის მეურნეობის მოდერნიზაციის, ბაზარზე წვდომისა და მდგრადობის პროექტი (GEF, IFAD)",Program,"The Project of Modernization, Market Access And Sustainability Of Agriculture (GEF, IFAD)"
+38 05,ეროვნული საშენი მეურნეობის სისტემის ჩამოყალიბება და მართვა,Program,Creation and Management of National Sapling Forestry System
+23 06,"ბუღალტრული აღრიცხვის, ანგარიშგებისა და აუდიტის ზედამხედველობა",Program,"Accounting, Reporting And Audit Oversight"
+24 09,"საქართველოს მიერ საერთაშორისო ხელშეკრულებებით ნაკისრი ვალდებულებების ფარგლებში საქართველოს აეროპორტებში „გათავისუფლებული ფრენების"" მომსახურების ხარჯების ანაზღაურება (მათ შორის, წინა წლებში წარმოქმნილი დავალიანებების დაფარვა",Program,Compensation Of Landing Fees Committed By Georgia Within International Agreements (Including For The Arrears Accrued In Previous Years)
+24 12,საზღვაო პროფესიული განათლების ხელშეწყობა,Program,Promotion Of Maritime Professional education
+25 05,მყარი ნარჩენების მართვის პროგრამა,Program,Solid Waste Management Program
+26 06,ერთიანი სახელმწიფო საინფორმაციო ტექნოლოგიების განვითარება,Program,United National Information Technology Development
+26 07,დანაშაულის პრევენცია და ყოფილ პატიმართა რესოციალიზაცია,Program,Crime Prevention And The Social Reintegration Of Former Prisoners
+58 00,სსიპ - საქართველოს მეცნიერებათა ეროვნული აკადემია,SpendingAgency,NEPL - Georgian National Academy of Sciences
+60 13,ფიზიკურ პირებზე უცხოურ ვალუტაში გაცემული საბანკო სესხების ეროვნულ ვალუტაში კონვერტირების ხელშეწყობის ღონისძიებები,Program,Promoting Measurements For Individuals To Convert Bank Loans in Foreign Currency In National Currency
+63 00,სსიპ - ტექნოლოგიური ინსტიტუტი,SpendingAgency,NEPL - Institute Of Technology
